@@ -1,0 +1,26 @@
+name: "www"
+output_dir: "../docs"
+navbar:
+  title: "Irene xu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+
+  right:
+    - icon: fa-envelope 
+      href: mailto:irenexupsych@gmail.com
+    - icon: fa-github
+      href: http://www.github.com/Irene-Xu-mengye
+    - icon: fa-twitter
+      href: https://twitter.com/IreneXu52505455
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/irene-x-441588187/
+
+output:
+  html_document:
+    theme: yeti
+    highlight: pygments
+    toc: true
+    toc_float: true
