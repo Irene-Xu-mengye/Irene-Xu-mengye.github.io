@@ -1,8 +1,24 @@
 ---
 title: "Irene Xu"
-output:
-  html_document:
-    toc: true
 ---
 
-<br />
+<br/>
+![](profile_photo.jpeg){width=28%}
+
+<br/>
+Welcome to my website. My name is Mengye Xu [(pronunciation)](https://www.youtube.com/watch?v=8XdUJ1mtYAM) but I go by Irene and use they/them pronouns.
+
+<br/>
+I graduated from [Smith College](smith.edu) in May 2021 with degrees in [psychology](smith.edu/academics/psychology) and [statistical & data science](smith.edu/academics/statistics). 
+
+<br/>
+After graduation, I joined the [Laboratory for Brain and Cognitive Health Technology](http://cognitivehealth.tech/) as a Clinical Research Assistant II. My projects in the lab focus on validating digital measurements of cognitive tests and providing real-time interventions for the clinical population. 
+
+<br/>
+My research experience started with working with [Dr. Randy Frost](smith.edu/academics/faculty/randy-frost) on OCD and hoarding disorder. With a better idea of where my interests are, I volunteered at the [Hooley Lab](hooleylab.psych.fas.harvard.edu/) and [Nock Lab](nocklab.fas.harvard.edu/) to focus on understanding the dynamic cognitive and emotional mechanisms involved in suicidal thoughts and behavior using EMA and computational methods, which is when I recognized the challenges in precise measurements of psychological phenomena and decided to dive deeper into developing and validating existing operationalizations using more refined technology-based forms of data collection and machine-driven data analysis. 
+
+<br/>
+My other interests involve constructs that are less understood but widely observed in the clinical settings, such as emotional numbing and dissociative experiences that precede or accompany suicidal ideation, and their complex relationships with severe chronic psychopathology.
+
+<br/>
+I’m also interested in studying suicidal behavior through the lens of gender non-conforming individuals given the high prevalence and my experience with multiple minoritized identities. 

@@ -5,8 +5,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
-      href: about.html
 
   right:
     - icon: fa-envelope 
@@ -21,5 +19,4 @@ navbar:
 output:
   html_document:
     theme: yeti
-    toc: true
-    toc_float: true
+    toc: false
