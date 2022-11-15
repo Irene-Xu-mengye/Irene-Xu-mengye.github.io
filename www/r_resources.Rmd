@@ -1,0 +1,33 @@
+---
+title: "Resources for Learning R"
+---
+
+```{r include=FALSE}
+colorize <- function(x, color) {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{%s}{%s}", color, x)
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: %s;'>%s</span>", color,
+      x)
+  } else x
+}
+```
+
+<br/>
+**For beginners who like to learn data analysis in R, here are some great resources**    
+
+* [Swirl stats](swirlstats.com/) has an interactive course in R 
+* [R for Data Science](r4ds.had.co.nz/) is a textbook style guide   
+* Learning R [Resources](github.com/Joscelinrocha/Learning-R-Resources/wiki) (lots of resources linked here) 
+
+
+<br/>
+**Maximize Accessibility in Data Visualization**    
+
+* Colors are a great way to capture attention. However, 5-8% men and 0.5-1% women experience color blindness. This [website](davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) simulates what people with different kinds of color blindness see and shows how some existing color blind friendly palettes actually don’t do a good job. 
+
+* These are my personal favorite colors:   
+  + `r colorize("#0C7BDC", "#0C7BDC")`
+  + `r colorize("#FFC20A", "#FFC20A")`    
+  + `r colorize("#7D2F39", "#7D2F39")`    
+  + `r colorize("#FF6999", "#FF6999")`    
