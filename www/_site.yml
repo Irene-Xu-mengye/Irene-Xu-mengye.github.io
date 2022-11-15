@@ -5,6 +5,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Recent Work"
+      href: recent_work.html
+    - text: "Resources for PhD Applicants"
+      href: app_resources.html
 
   right:
     - icon: fa-envelope 
