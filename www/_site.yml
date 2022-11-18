@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Recent Work"
       href: recent_work.html
+    - text: "Perspectives on Suicide Care"
+      href: intervention_perspective.html
     - text: "Resources for PhD Applicants"
       href: app_resources.html
     - text: "Resources for R Beginners"

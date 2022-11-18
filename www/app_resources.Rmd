@@ -1,5 +1,5 @@
 ---
-title: "Clinical Psychology PhD Application Resources"
+title: "Resources for Clinical Psychology PhD Applicants"
 ---
 
 <br/>
@@ -7,11 +7,11 @@ title: "Clinical Psychology PhD Application Resources"
 
 * [Project Short](https://www.project-short.com/) matches applicants with mentors in a related field to provide one-to-one mentoring. "One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM."    
 
-* Application Statement Feedback Program ([ASFP](asfp.io)): "Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’"   
+* Application Statement Feedback Program ([ASFP](https://www.asfp.io)): "Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’"   
 
-* [Psychin'Out](https://psychinout.org/) has a [resource hub](drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof) of application materials with a slack channel for people at different stages of their careers.    
+* [Psychin'Out](https://www.psychinout.org/) has a [resource hub](https://www.drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof) of application materials with a slack channel for people at different stages of their careers.    
 
-* Application Group for applicants interested in eating disorders [Getting in to Grad School](www.psychphdeat.com/resources)   
+* Application Group for applicants interested in eating disorders [Getting in to Grad School](https://www.psychphdeat.com/resources)   
 
 
 <br/>
@@ -29,20 +29,21 @@ Some universities have programs for underrepresented applicants. You usually nee
 
 * The classic Mitch's [Guide](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)   
 * Mallory L. Dobias' [Guide](https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132)    
-* Sophie Choukas-Bradley's [Guide](s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221115T042037Z&X-Amz-Expires=86400&X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&x-id=GetObject)
+* Sophie Choukas-Bradley's [Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221115T042037Z&X-Amz-Expires=86400&X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&x-id=GetObject)
 * Jasmine Mote's [Guide](https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit)
-* Claire Whiting's [Guide](www.clairewhiting.com/resources/applying-to-psych-phds)
-* Elayne Zhou's [Guide](steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d)
-* Lucy Lai's [Guide](lucy-lai.com/blog/gradapps.html)    
-* Mitch Prinstein & ASFP's [video](www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation)    
-* [How to email faculty](lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might) on writing SOP 
+* Claire Whiting's [Guide](https://www.clairewhiting.com/resources/applying-to-psych-phds)
+* Elayne Zhou's [Guide](https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d)
+* Lucy Lai's [Guide](https://lucy-lai.com/blog/gradapps.html)    
+* Mitch Prinstein & ASFP's [video](https://www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation) on writing SOP     
+* Mitch Prinstein & APA's [video](https://www.youtube.com/watch?v=3ueGQY8mHJo) on interviews    
+* [How to email faculty](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might)     
 
 
 <br/>
 **Additional Resources for Specific Communities**      
 
 * [Resources](https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit) for international applicants in clinical psychology       
-* [Community](www.queerpsychneuro.com/) for queer academics in psychology & neuroscience   
+* [Community](https://www.queerpsychneuro.com/) for queer academics in psychology & neuroscience   
 
 
 
