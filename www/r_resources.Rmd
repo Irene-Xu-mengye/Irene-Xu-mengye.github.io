@@ -24,9 +24,9 @@ colorize <- function(x, color) {
 <br/>
 **Maximize Accessibility in Data Visualization**    
 
-* Colors are a great way to capture attention. However, 5-8% men and 0.5-1% women experience color blindness. This [website](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) simulates what people with different kinds of color blindness see and shows how some existing color blind friendly palettes actually don’t do a good job. 
+* Colors are a great way to capture attention. However, 5-8% men and 0.5-1% women experience color blindness. This [website](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) simulates what people with different kinds of color blindness see and shows how some existing colorblind-friendly palettes actually don’t do a good job. 
 
-* These are my personal favorite colors:   
+* These are my personal favorite colorblind-friendly colors:   
   + `r colorize("#0C7BDC", "#0C7BDC")`
   + `r colorize("#FFC20A", "#FFC20A")`    
   + `r colorize("#7D2F39", "#7D2F39")`    

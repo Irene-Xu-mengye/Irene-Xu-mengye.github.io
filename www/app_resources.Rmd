@@ -11,7 +11,7 @@ title: "Resources for Clinical Psychology PhD Applicants"
 
 * [Psychin'Out](https://www.psychinout.org/) has a [resource hub](https://www.drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof) of application materials with a slack channel for people at different stages of their careers.    
 
-* Application Group for applicants interested in eating disorders [Getting in to Grad School](https://www.psychphdeat.com/resources)   
+* [Application Group](https://www.psychphdeat.com/resources) for applicants interested in eating disorders   
 
 
 <br/>
@@ -19,31 +19,54 @@ title: "Resources for Clinical Psychology PhD Applicants"
 
 Some universities have programs for underrepresented applicants. You usually need to apply for those. Even if you don't apply for these programs, their websites usually have helpful information from previous years' workshops.   
 
-* Harvard Prospective Ph.D. & RA Event in Psychology ([PPREP](https://psychology.fas.harvard.edu/pprep))      
+* [Harvard Prospective Ph.D. & RA Event in Psychology](https://psychology.fas.harvard.edu/pprep)      
 * [UNC Diversifying Psychology Weekend](https://psychology.unc.edu/diversifying-psychology-weekend/)    
 * [Rutgers Diversifying Psychology Program](https://sites.rutgers.edu/rdpd/)   
 
 
 <br/>
-**Amazing Resources Shared by Amazing People**      
+**Resources on Application**      
 
-* The classic Mitch's [Guide](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)   
-* Mallory L. Dobias' [Guide](https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132)    
-* Sophie Choukas-Bradley's [Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221115T042037Z&X-Amz-Expires=86400&X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&x-id=GetObject)
-* Jasmine Mote's [Guide](https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit)
-* Claire Whiting's [Guide](https://www.clairewhiting.com/resources/applying-to-psych-phds)
-* Elayne Zhou's [Guide](https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d)
-* Lucy Lai's [Guide](https://lucy-lai.com/blog/gradapps.html)    
-* Mitch Prinstein & ASFP's [video](https://www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation) on writing SOP     
-* Mitch Prinstein & APA's [video](https://www.youtube.com/watch?v=3ueGQY8mHJo) on interviews    
-* [How to email faculty](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might)     
+* The classic [Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)   
+* [Harvard's PRO-TIP](https://psychology.fas.harvard.edu/pro-tip)   
+* [Duke's Guide](https://psychandneuro.duke.edu/undergraduate/psychology/current-students/grad-school-advice)    
+* [Mallory L. Dobias' Guide](https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132)    
+* [Sophie Choukas-Bradley's Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221115T042037Z&X-Amz-Expires=86400&X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&x-id=GetObject)
+* [Jasmine Mote's Guide](https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit)
+* [Claire Whiting's Guide](https://www.clairewhiting.com/resources/applying-to-psych-phds)
+* [Elayne Zhou's Guide](https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d)
+* [Lucy Lai's Guide](https://lucy-lai.com/blog/gradapps.html)       
+* [Finding a faculty advisor](https://psych.princeton.edu/finding-faculty-advisor) describes why and how to email faculty   
+* [How to email faculty](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might)  
 
+
+<br> 
+**How to Write a Statement of Purpose (SOP)**
+
+* [Mitch Prinstein & ASFP's video](https://www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation)     
+* [Dr. Andrew Kiselica's Twitter Thread](https://twitter.com/AndrewK_PhD/status/1578707948427415552)  
+
+<br>
+**How to Write a Diversity Statement**
+
+* [Dr. Aisha Dickerson's Twitter Thread](https://twitter.com/aisha_dickerson/status/1585302118985891840)   
+
+<br>
+**Resources on Interviews**
+
+* [Questions](https://forum.thegradcafe.com/topic/13271-questions-to-ask-current-students-in-phd-programs/) to ask current PhD students   
+* [Mitch Prinstein's Guide](https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf) on Interviews     
+* [Mitch Prinstein & APA's video](https://www.youtube.com/watch?v=3ueGQY8mHJo) on interviews   
+* [How to Prepare for Interviews](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/graduate-career-resources/applying-grad-school/interviews.html)   
+* [Common Questions](https://www.depts.ttu.edu/psy/advising/files/Workshop/GradschoolInterviewQuestions.pdf) asked in interviews   
+* [Question to Ask Faculty](https://twitter.com/Michelle_Heck1/status/1584247043484454913)  
 
 <br/>
 **Additional Resources for Specific Communities**      
 
-* [Resources](https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit) for international applicants in clinical psychology       
-* [Community](https://www.queerpsychneuro.com/) for queer academics in psychology & neuroscience   
-
+* [Resources for International Applicants in Clinical Psychology](https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit)       
+* [Fellowships for International Students](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)   
+* [Community for Queer Academics in Psychology & Neuroscience](https://www.queerpsychneuro.com/)    
+* [How to Become a Scientist While Poor](http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor)
 
 
