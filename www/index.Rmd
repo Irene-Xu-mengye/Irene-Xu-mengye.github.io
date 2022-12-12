@@ -2,13 +2,15 @@
 title: "Irene Xu"
 ---
 
+Last Updated: `r Sys.Date()`
+
 <br/>
 ![](media/profile_photo.jpeg){width=28%}
 
 <br/>
 Welcome to my website. My name is Irene Xu [(pronunciation)](https://www.youtube.com/watch?v=6AHj1kS1B3E) and I use they/them pronouns. [(what is this?)](https://www.pridetraining.org.au/pages/pronoun-page)    
 
-I am a first-generation, international student graduated from [Smith College](https://www.smith.edu/) in May 2021 with degrees in [Psychology](https://www.smith.edu/academics/psychology) and [Statistical & Data Science](https://www.smith.edu/academics/statistics).     
+I am a first-generation, international student who graduated from [Smith College](https://www.smith.edu/) in May 2021 with degrees in [Psychology](https://www.smith.edu/academics/psychology) and [Statistical & Data Sciences](https://www.smith.edu/academics/statistics).     
 
 My research experience started with working with [Dr. Randy Frost](https://www.smith.edu/academics/faculty/randy-frost) on OCD and hoarding disorder. With a better idea of where my interests are after volunteering for [Trans Lifeline](https://www.translifeline.org/), a crisis hotline operated by transgender individuals to serve the transgender community, I worked at the [Hooley Lab](https://hooleylab.psych.fas.harvard.edu/) and [Nock Lab](https://nocklab.fas.harvard.edu/) at Harvard University to focus on understanding the dynamic cognitive and emotional mechanisms involved in suicidal thoughts and behavior using EMA and computational methods. These valuable experiences led me to recognize the challenges in precise measurements of psychological phenomena and decided to dive deeper into developing and validating existing operationalizations using more refined technology-based forms of data collection and machine-driven data analysis.   
 
@@ -16,19 +18,27 @@ To better understand how digital technology can support research and interventio
 
 In the future, I hope to study how affective responses to suicidal desires influence the appraisals of suicidal thoughts and engagement in suicidal behaviors. One concept I am excited to explore is the role of dissociation in the transition from suicidal thoughts to suicidal behaviors. In my work with Trans Lifeline, many individuals experience dissociative experiences preceding or accompanying suicidal ideation. Dissociation as a trait has been recently examined as a factor that increases the capability of suicide [$^1$](https://onlinelibrary.wiley.com/doi/abs/10.1111/sltb.12863) [$^2$](https://sciencedirect.com/science/article/abs/pii/S0165178119311163) [$^3$](https://psycnet.apa.org/buy/2014-39462-001). However, it is possible that temporal dissociation serves a protective function that stops the transition from ideation to attempt. Given the multidimensional nature of dissociation and suicidal thinking, I hope to explore how to better operationalize dissociation in the context of suicidal ideation and investigate the temporal and longitudinal relationships between affect, facets of dissociation, and suicidal thoughts and behaviors. In addition, I am also interested in understanding suicidal thoughts and behaviors through the lens of gender non-conforming adolescents given their [high prevalence](https://publications.aap.org/pediatrics/article/142/4/e20174218/76767/Transgender-Adolescent-Suicide-Behavior) in this population.       
 
-As a first-generation, international, Asian and gender non-conforming student, I've always struggled to find representation in the field of clinical psychology. I am deeply grateful for my mentors' efforts at inclusion and committed to give back to the community by sharing resources and helping fellow students to my best ability. If you are also applying for clinical psychology PhD programs, here are some [resources](app_resources.html) that I compiled.     
+In the future, I aspire to study the manifestation and maintenance of short- and long-term STBs in relationship to dissociation, in the Transgender and Gender Non-Conforming (TGNC) community, and in adolescents.  
+
+As a first-generation, international, Asian, and gender non-conforming student, I've always struggled to find representation in the field of clinical psychology. I am deeply grateful for my mentors' efforts at inclusion and committed to giving back to the community by sharing resources and helping fellow students to my best ability. If you are also applying for clinical psychology PhD programs, here are some [resources](app_resources.html) that I compiled.     
 
 <br/>
 Connect with me!       
 
-![](media/github_logo.png){width=3%} [GitHub](http://www.github.com/Irene-Xu-mengye)   
+![](media/github_logo.png){width=3%} [GitHub](http://www.github.com/Irene-Xu-mengye) @irene-xu-mengye   
 
-![](media/osf_logo.png){width=3%} [OSF](https://osf.io/xkucz/)    
+![](media/osf_logo.png){width=3%} [OSF](https://osf.io/xkucz/)     
+     
 
-![](media/twitter_logo.png){width=3%} [Twitter](https://twitter.com/IreneXu52505455)    
+![](media/linkedin_logo.png){width=3%} [LinkedIn](https://www.linkedin.com/in/irene-x-441588187/)   
 
-![](media/linkedin_logo.png){width=3%} [LinkedIn](https://www.linkedin.com/in/irene-x-441588187/)    
+![](media/email_logo.png){width=3%} [Email](irenexupsych@gmail.com) irenexupsych@gmail.com         
 
-![](media/email_logo.png){width=3%} [Email](irenexupsych@gmail.com)    
+![](media/twitter_logo.png){width=3%} [Twitter](https://twitter.com/IreneXu52505455) @irene_xu_mengye  
+
+![](media/mastodon_logo.png){width=3%} [Mastodon](@irenexu@mindly.social) @irenexu@mindly.social
 
 
+<br>
+
+Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A). 

@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -224,6 +227,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -231,6 +297,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -254,13 +330,13 @@ $(document).ready(function () {
   <a href="recent_work.html">Recent Work</a>
 </li>
 <li>
-  <a href="intervention_perspective.html">Perspectives on Suicide Care</a>
+  <a href="suicide_resources.html">Resources for Suicide</a>
 </li>
 <li>
   <a href="app_resources.html">Resources for PhD Applicants</a>
 </li>
 <li>
-  <a href="r_resources.html">Resources for R Beginners</a>
+  <a href="r_resources.html">Analysis Using R</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -302,10 +378,15 @@ $(document).ready(function () {
 </div>
 
 
-<p><br/> <strong>Preprint</strong></p>
+<p>Last Updated: 2022-12-11</p>
+<p><br></p>
+<div id="preprint" class="section level4">
+<h4><strong>Preprint</strong></h4>
 <p><strong>Xu, I.</strong>, Passell, E., Strong, R., Grinspoon, L., Wu, C., Jung, L., Wilmer, J., &amp; Germine, L. (2022). No evidence for consistent reliability across 36 variations of the emotional dot probe task in 9,000 participants. <a href="https://www.psyarxiv.com/58z4n">Preprint</a></p>
 <hr />
-<p><strong>Selected Manuscript In Prep</strong></p>
+</div>
+<div id="selected-manuscript-in-prep" class="section level4">
+<h4><strong>Selected Manuscript In Prep</strong></h4>
 <p><strong>Xu, I.</strong>, Millner, A. J., Fortgang, R., &amp; Nock, M. K. How considering the consequences of suicide impacts the decision to attempt suicide: People who attempted Suicide and people who aborted their attempts.</p>
 <p><strong>Abstract</strong><br />
 Introduction: The period leading up to a suicide attempt when people transition from suicidal ideation to making suicide attempts involves a decision-making process during which people weigh the reasons for and against suicide. However, existing studies mostly used proxy measures, such as time spent in contemplation, to estimate the degree to which people consider the consequences of suicide in this process. The studies that directly measured considerations did not measure it in the context of making the decision to attempt. The current study aimed to assess how people consider the consequences of suicide in the decision-making process and whether considerations of specific consequences influenced their ultimate decision to attempt or not.</p>
@@ -315,16 +396,22 @@ Introduction: The period leading up to a suicide attempt when people transition 
 <p><img src="media/figure2_considerations_directional.png" style="width:70.0%" /></p>
 <p><img src="media/figure3_time.png" style="width:62.0%" /></p>
 <hr />
-<p><strong>Recent Posters</strong></p>
+</div>
+<div id="recent-posters" class="section level4">
+<h4><strong>Recent Posters</strong></h4>
 <p><strong>Xu, I.</strong>, Hawks, Z., Wu, C., Ferreira, M., Bowers, E., Strong, R., Li, F., Grinspoon, E., Beard, C., Germine, L. (Sept 2022). Patient Responses to Return of Research Results in two EMA Studies of Cognition and Emotion. Poster Presented at Society for Research in Psychopathology, Philadelphia, PA. <a href="https://docs.google.com/presentation/d/1-WbuhEclD7IrZZjmDVyVom3fcIL_4GPd/edit?usp=sharing&amp;ouid=100799767484704214514&amp;rtpof=true&amp;sd=true">Link</a></p>
 <p><img src="media/TS_RORR_SRP2022_Poster.png" /> <br></p>
 <p>Grinspoon, E., Jung, L., Li, F., Passell, E., Scheuer, L., Hawks, Z., Strong, R., Singh, S., <strong>Xu, I.</strong>, &amp; Germine, L. (Sept 2022). How Does Returning Cognitive Test Results Impact Performance over Time? Poster Presented at Society for Research in Psychopathology, Philadelphia, PA. <a href="https://docs.google.com/presentation/d/1II4foE8VE4SZqOMAfn9_np9FM38qJ6FV0fulmYlXPAw/edit?usp=sharing">Link</a></p>
 <p>Wu, C., <strong>Xu, I.</strong>, Passell, E., Beard, C., &amp; Germine, L. (March 2022). The Older, the Merrier: Older Adults Have Greater Positive Interpretation Biases. Poster Presented at Harvard Psychiatry Research Day. Cambridge, MA. <a href="https://docs.google.com/presentation/d/1UTG1GWxcFLKsCgSQqMXULOJ_6i_-IvXWxxqIvZqVy2E/edit?usp=sharing">Link</a></p>
 <p><strong>Xu, I.</strong>, Passell, E., Strong, R., Grinspoon, E., &amp; Germine, L. (March 2022). Attentional Bias for Threat: Reliability of 36 Versions of the Threat Dot Probe Task. Poster Presented at Harvard Psychiatry Research Day, Cambridge, MA. <a href="https://docs.google.com/presentation/d/1aCFDA1ghLOf54COhUPxD1bBCbIa4845D/edit?usp=sharing&amp;ouid=100799767484704214514&amp;rtpof=true&amp;sd=true">Link</a></p>
 <p><br></p>
+<p>Share your comments, concerns, suggestions, or additional resources <a href="https://forms.gle/DQfojqWRTGQ8mjq2A">here</a>.</p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -357,6 +444,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

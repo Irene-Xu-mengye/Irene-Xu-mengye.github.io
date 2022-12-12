@@ -1,14 +1,24 @@
 ---
 title: "Recent Work"
+output:
+  html_document:
+    toc: true    
+    toc_depth: 4
+    toc_float: true
+    collapsed: false
+    smooth_scroll: true
 ---
 
-<br/>
-**Preprint**   
+Last Updated: `r Sys.Date()`
+
+<br>
+
+#### **Preprint**   
 
 **Xu, I.**, Passell, E., Strong, R., Grinspoon, L., Wu, C., Jung, L., Wilmer, J., & Germine, L. (2022). No evidence for consistent reliability across 36 variations of the emotional dot probe task in 9,000 participants. [Preprint](https://www.psyarxiv.com/58z4n)
 
 ***
-**Selected Manuscript In Prep**   
+#### **Selected Manuscript In Prep**   
 
 **Xu, I.**, Millner, A. J., Fortgang, R., & Nock, M. K. How considering the consequences of suicide impacts the decision to attempt suicide: People who attempted Suicide and people who aborted their attempts. 
 
@@ -28,7 +38,7 @@ Conclusion: As expected, **how**, in addition to **how much**, people considered
 
 
 ***
-**Recent Posters**    
+#### **Recent Posters**    
 
 **Xu, I.**, Hawks, Z., Wu, C., Ferreira, M., Bowers, E., Strong, R., Li, F., Grinspoon, E., Beard, C., Germine, L. (Sept 2022). Patient Responses to Return of Research Results in two EMA Studies of Cognition and Emotion. Poster Presented at Society for Research in Psychopathology, Philadelphia, PA. [Link](https://docs.google.com/presentation/d/1-WbuhEclD7IrZZjmDVyVom3fcIL_4GPd/edit?usp=sharing&ouid=100799767484704214514&rtpof=true&sd=true)    
     
@@ -45,3 +55,5 @@ Wu, C., **Xu, I.**, Passell, E., Beard, C., & Germine, L. (March 2022). The Olde
 
 
 <br>
+
+Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A). 

@@ -29,6 +29,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -224,6 +227,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -231,6 +297,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -254,13 +330,13 @@ $(document).ready(function () {
   <a href="recent_work.html">Recent Work</a>
 </li>
 <li>
-  <a href="intervention_perspective.html">Perspectives on Suicide Care</a>
+  <a href="suicide_resources.html">Resources for Suicide</a>
 </li>
 <li>
   <a href="app_resources.html">Resources for PhD Applicants</a>
 </li>
 <li>
-  <a href="r_resources.html">Resources for R Beginners</a>
+  <a href="r_resources.html">Analysis Using R</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -302,85 +378,101 @@ $(document).ready(function () {
 </div>
 
 
-<p><br/> <strong>Non-profits/Student-led groups with awesome programs</strong></p>
+<p>Last Updated: 2022-12-11</p>
+<p><br></p>
+<div id="non-profitsstudent-led-programs" class="section level4">
+<h4><strong>1. Non-Profits/Student-Led Programs</strong></h4>
 <ul>
-<li><p><a href="https://www.project-short.com/">Project Short</a> matches applicants with mentors in a related field to provide one-to-one mentoring. “One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM.”</p></li>
-<li><p>Application Statement Feedback Program (<a href="https://www.asfp.io">ASFP</a>): “Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’”</p></li>
+<li><p><a href="https://www.project-short.com/">Project SHORT</a> matches applicants with mentors in a related field to provide one-to-one mentoring. “One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM.”</p></li>
+<li><p><a href="https://www.asfp.io">Application Statement Feedback Program (ASFP)</a>: “Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’”</p></li>
 <li><p><a href="https://www.psychinout.org/">Psychin’Out</a> has a <a href="https://www.drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof">resource hub</a> of application materials with a slack channel for people at different stages of their careers.</p></li>
-<li><p><a href="https://www.psychphdeat.com/resources">Application Group</a> for applicants interested in eating disorders</p></li>
+<li><p><a href="https://www.psychphdeat.com/resources">An Application Group</a> for applicants interested in eating disorders</p></li>
 </ul>
-<p><br/> <strong>Universities’ Programs</strong></p>
-<p>Some universities have programs for underrepresented applicants. You usually need to apply for those. Even if you don’t apply for these programs, their websites usually have helpful information from previous years’ workshops.</p>
+<p><br/></p>
+</div>
+<div id="universities-programs" class="section level4">
+<h4><strong>2. Universities’ Programs</strong></h4>
+<p>Some universities have programs for applicants coming from diverse backgrounds. You usually need to apply for them and they would do their best to make the process fair regardless of where you are in your journey. Even if you don’t apply for these programs, their websites usually have information from previous years’ workshops. Personally I attended the first three and they have been helpful and empowering in different ways.</p>
 <ul>
-<li><a href="https://psychology.fas.harvard.edu/pprep">Harvard Prospective Ph.D. &amp; RA Event in Psychology</a><br />
-</li>
-<li><a href="https://psychology.unc.edu/diversifying-psychology-weekend/">UNC Diversifying Psychology Weekend</a><br />
-</li>
-<li><a href="https://sites.rutgers.edu/rdpd/">Rutgers Diversifying Psychology Program</a></li>
+<li><p><a href="https://psychology.fas.harvard.edu/pprep">Harvard: Prospective Ph.D. &amp; RA Event in Psychology (PPREP)</a></p></li>
+<li><p><a href="https://psychology.unc.edu/diversifying-psychology-weekend/">UNC: Diversifying Psychology Weekend (DPW)</a></p></li>
+<li><p><a href="https://sites.rutgers.edu/rdpd/">Rutgers: Diversifying Psychology Program</a></p></li>
+<li><p><a href="https://icd.umn.edu/outreach/next-gen-psych-scholars/">University of Minnesota: Next-Gen Psych Scholars Program</a></p></li>
+<li><p><a href="https://lsa.umich.edu/psych/undergraduates/star-scholars-program.html">University of Michigan: STAR Scholars Program</a></p></li>
+<li><p><a href="https://psychology.stanford.edu/diversity/paths-phd">Stanford: Paths to PhD</a></p></li>
 </ul>
-<p><br/> <strong>Resources on Application</strong></p>
+<p><br></p>
+</div>
+<div id="resources-on-getting-in" class="section level4">
+<h4><strong>3. Resources on Getting in</strong></h4>
 <ul>
-<li>The classic <a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf">Mitch’s Uncensored Advice for Applying to Graduate School in Clinical Psychology</a><br />
-</li>
-<li><a href="https://psychology.fas.harvard.edu/pro-tip">Harvard’s PRO-TIP</a><br />
-</li>
-<li><a href="https://psychandneuro.duke.edu/undergraduate/psychology/current-students/grad-school-advice">Duke’s Guide</a><br />
-</li>
-<li><a href="https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132">Mallory L. Dobias’ Guide</a><br />
-</li>
-<li><a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20221115T042037Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&amp;x-id=GetObject">Sophie Choukas-Bradley’s Guide</a></li>
-<li><a href="https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit">Jasmine Mote’s Guide</a></li>
-<li><a href="https://www.clairewhiting.com/resources/applying-to-psych-phds">Claire Whiting’s Guide</a></li>
-<li><a href="https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d">Elayne Zhou’s Guide</a></li>
-<li><a href="https://lucy-lai.com/blog/gradapps.html">Lucy Lai’s Guide</a><br />
-</li>
-<li><a href="https://psych.princeton.edu/finding-faculty-advisor">Finding a faculty advisor</a> describes why and how to email faculty<br />
-</li>
-<li><a href="https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might">How to email faculty</a></li>
+<li><p>The classic <a href="https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf">Mitch Prinstein’s Uncensored Advice for Applying to Graduate School in Clinical Psychology</a></p></li>
+<li><p>A video by Mitch Prinstein on <a href="https://www.youtube.com/watch?v=f-5DjLRKCHQ&amp;ab_channel=MitchPrinstein">Getting Into Psych Grad School During the Time of COVID</a></p></li>
+<li><p><a href="https://docs.google.com/document/d/1JAGQ79JNzHfJwZM7ED8honc3GDLRG4Gmz_GGPxJ_4iY/edit">A guide by Dr. Jessica Hamilton’s Lab</a> on what to do every year in college and beyond to get into clinical programs</p></li>
+<li><p><a href="https://psychology.fas.harvard.edu/pro-tip">Harvard’s Psychology’s PhD Resources and Online Tips Page (PRO-TiP)</a></p></li>
+<li><p><a href="https://psychandneuro.duke.edu/undergraduate/psychology/current-students/grad-school-advice">Duke’s Guide</a></p></li>
+<li><p><a href="https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132">Mallory L. Dobias’ Guide</a></p></li>
+<li><p><a href="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Date=20221115T042037Z&amp;X-Amz-Expires=86400&amp;X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&amp;X-Amz-SignedHeaders=host&amp;response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&amp;x-id=GetObject">Sophie Choukas-Bradley’s Guide</a></p></li>
+<li><p><a href="https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit">Jasmine Mote’s Guide</a></p></li>
+<li><p><a href="https://www.clairewhiting.com/resources/applying-to-psych-phds">Claire Whiting’s Guide</a></p></li>
+<li><p><a href="https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d">Elayne Zhou’s Guide</a></p></li>
+<li><p><a href="https://lucy-lai.com/blog/gradapps.html">Lucy Lai’s Guide</a></p></li>
+<li><p><a href="https://psych.princeton.edu/finding-faculty-advisor">Finding a faculty advisor</a> describes why and how to email faculty</p></li>
+<li><p><a href="https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might">How to email faculty</a></p></li>
 </ul>
-<p><br> <strong>How to Write a Statement of Purpose (SOP)</strong></p>
+<p><br></p>
+</div>
+<div id="how-to-write-a-statement-of-purpose" class="section level4">
+<h4><strong>4. How to Write a Statement of Purpose</strong></h4>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=2UZ8c7HY0N0&amp;t=27s&amp;ab_channel=AmericanPsychologicalAssociation">Mitch Prinstein &amp; ASFP’s video</a><br />
-</li>
-<li><a href="https://twitter.com/AndrewK_PhD/status/1578707948427415552">Dr. Andrew Kiselica’s Twitter Thread</a></li>
+<li><p><a href="https://www.youtube.com/watch?v=2UZ8c7HY0N0&amp;t=27s&amp;ab_channel=AmericanPsychologicalAssociation">Mitch Prinstein &amp; ASFP’s video</a></p></li>
+<li><p><a href="https://twitter.com/AndrewK_PhD/status/1578707948427415552">Dr. Andrew Kiselica’s Twitter Thread</a></p></li>
 </ul>
-<p><br> <strong>How to Write a Diversity Statement</strong></p>
+<p><br></p>
+</div>
+<div id="how-to-write-a-diversity-statement" class="section level4">
+<h4><strong>5. How to Write a Diversity Statement</strong></h4>
 <ul>
 <li><a href="https://twitter.com/aisha_dickerson/status/1585302118985891840">Dr. Aisha Dickerson’s Twitter Thread</a></li>
 </ul>
-<p><br> <strong>Resources on Interviews</strong></p>
+<p><br></p>
+</div>
+<div id="resources-on-interviews" class="section level4">
+<h4><strong>6. Resources on Interviews</strong></h4>
 <ul>
-<li><a href="https://forum.thegradcafe.com/topic/13271-questions-to-ask-current-students-in-phd-programs/">Questions</a> to ask current PhD students<br />
-</li>
-<li><a href="https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf">Mitch Prinstein’s Guide</a> on Interviews<br />
-</li>
-<li><a href="https://www.youtube.com/watch?v=3ueGQY8mHJo">Mitch Prinstein &amp; APA’s video</a> on interviews<br />
-</li>
-<li><a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/graduate-career-resources/applying-grad-school/interviews.html">How to Prepare for Interviews</a><br />
-</li>
-<li><a href="https://www.depts.ttu.edu/psy/advising/files/Workshop/GradschoolInterviewQuestions.pdf">Common Questions</a> asked in interviews<br />
-</li>
-<li><a href="https://twitter.com/Michelle_Heck1/status/1584247043484454913">Question to Ask Faculty</a></li>
+<li><p><a href="https://forum.thegradcafe.com/topic/13271-questions-to-ask-current-students-in-phd-programs/">Questions to ask current PhD students</a></p></li>
+<li><p><a href="https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf">Mitch Prinstein’s Guide on Interviews</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=3ueGQY8mHJo">Mitch Prinstein &amp; APA’s video on interviews</a></p></li>
+<li><p><a href="https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/graduate-career-resources/applying-grad-school/interviews.html">How to Prepare for Interviews</a></p></li>
+<li><p><a href="https://www.depts.ttu.edu/psy/advising/files/Workshop/GradschoolInterviewQuestions.pdf">Common Questions asked in interviews</a></p></li>
+<li><p><a href="https://twitter.com/Michelle_Heck1/status/1584247043484454913">Questions to Ask Faculty</a></p></li>
 </ul>
-<p><strong>Fellowships</strong></p>
+<p><br></p>
+</div>
+<div id="fellowships" class="section level4">
+<h4><strong>7. Fellowships</strong></h4>
 <ul>
-<li><a href="https://apps.grad.illinois.edu/fellowship-finder/">The Illinois Database of Grants and Fellowships for Graduate Students</a><br />
-</li>
-<li><a href="https://docs.google.com/spreadsheets/d/1e9hAxj5mqUZGHp9yUzwKEG1DWdDJNNFXNCZEYx3dghM/edit#gid=0">Psychology and Education Fellowships for Graduate Students (including those for international students)</a><br />
-</li>
-<li><a href="https://www.gograd.org/financial-aid/scholarships/lgbtq/">Scholarships &amp; Financial Aid For LGBTQ Students</a></li>
+<li><p><a href="https://apps.grad.illinois.edu/fellowship-finder/">The Illinois Database of Grants and Fellowships for Graduate Students</a></p></li>
+<li><p><a href="https://docs.google.com/spreadsheets/d/1e9hAxj5mqUZGHp9yUzwKEG1DWdDJNNFXNCZEYx3dghM/edit#gid=0">Psychology and Education Fellowships for Graduate Students (including those for international students)</a></p></li>
+<li><p><a href="https://www.gograd.org/financial-aid/scholarships/lgbtq/">Scholarships &amp; Financial Aid For LGBTQ Students</a></p></li>
 </ul>
-<p><br/> <strong>Additional Resources for Underrepresented Scholars</strong></p>
+<p><br/></p>
+</div>
+<div id="additional-resources-for-underrepresented-scholars" class="section level4">
+<h4><strong>8. Additional Resources for Underrepresented Scholars</strong></h4>
 <ul>
-<li><a href="https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit">Resources for International Applicants in Clinical Psychology</a><br />
-</li>
-<li><a href="https://www.queerpsychneuro.com/">Community for Queer Academics in Psychology &amp; Neuroscience</a><br />
-</li>
-<li><a href="http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor">How to Become a Scientist While Poor</a></li>
+<li><p><a href="https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit">Resources for International Applicants in Clinical Psychology</a></p></li>
+<li><p><a href="https://www.queerpsychneuro.com/">Community for Queer Academics in Psychology &amp; Neuroscience</a></p></li>
+<li><p><a href="http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor">How to Become a Scientist While Poor</a></p></li>
 </ul>
+<p><br></p>
+<p>Share your comments, concerns, suggestions, or additional resources <a href="https://forms.gle/DQfojqWRTGQ8mjq2A">here</a>.</p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -413,6 +505,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3,h4",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

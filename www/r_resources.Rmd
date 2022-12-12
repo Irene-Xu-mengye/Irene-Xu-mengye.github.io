@@ -1,5 +1,12 @@
 ---
-title: "Resources for R Beginners"
+title: "Analysis Using R"
+output:
+  html_document:
+    toc: true    
+    toc_depth: 4
+    toc_float: true
+    collapsed: false
+    smooth_scroll: true
 ---
 
 ```{r include=FALSE}
@@ -13,16 +20,32 @@ colorize <- function(x, color) {
 }
 ```
 
-<br/>
-**For beginners who like to learn data analysis in R, here are some great resources**    
+Last Updated: `r Sys.Date()`
+
+<br>
+
+#### **Get Started with R**    
 
 * [Swirl stats](https://swirlstats.com/) has an interactive course in R 
+
 * [R for Data Science](https://r4ds.had.co.nz/) is a textbook style guide   
+
 * Learning R [Resources](https://github.com/Joscelinrocha/Learning-R-Resources/wiki) (lots of resources linked here) 
 
+<br>
 
-<br/>
-**Maximize Accessibility in Data Visualization**    
+#### **Multilevel Modeling (MLM)**
+
+* [An Introduction to Hierarchical Modeling](http://mfviz.com/hierarchical-models/): a very nice animated visualization for understanding mixed-effects models   
+
+* [Understanding and analyzing multilevel data from real-time monitoring studies: An easily- accessible tutorial using R](https://psyarxiv.com/xf2pw/) by [Dr. Evan Kleiman](https://kleimanlab.org/)   
+
+* A comprehensive tutorial with sample code and data by Penn State: [Intensive Longitudinal Data: Analysis of Experience Sampling and EMA Data](https://quantdev.ssri.psu.edu/resources/intensive-longitudinal-data-analysis-experience-sampling-and-ema-data)
+
+
+<br>
+
+#### **Maximize Accessibility in Data Visualization**    
 
 * Colors are a great way to capture attention. However, 5-8% men and 0.5-1% women experience color blindness. This [website](https://davidmathlogic.com/colorblind/#%23D81B60-%231E88E5-%23FFC107-%23004D40) simulates what people with different kinds of color blindness see and shows how some existing colorblind-friendly palettes actually don’t do a good job. 
 
@@ -31,3 +54,8 @@ colorize <- function(x, color) {
   + `r colorize("#FFC20A", "#FFC20A")`    
   + `r colorize("#7D2F39", "#7D2F39")`    
   + `r colorize("#FF6999", "#FF6999")`    
+  
+  
+<br>
+
+Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A). 
