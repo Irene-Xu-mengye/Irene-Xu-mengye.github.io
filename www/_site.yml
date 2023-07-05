@@ -1,6 +1,5 @@
 name: "www"
 output_dir: "../docs"
-favicon: media/favicon/apple-touch-icon.png
 navbar:
   title: "Irene Xu"
   left:

@@ -1,3 +1,10 @@
+---
+title: "Research"
+output:
+  html_document:
+    includes:
+      in_header: ../support_docs/header.html
+---
 
 <style type="text/css">
   .title{
@@ -11,8 +18,8 @@
     line-height: 1.8em;
   }
   h4 {
-    font-size: 15pt;
-    color: #294759;
+    font-size: 16pt;
+    color: #08aca4;
     margin-bottom: 20px;
   }
   .article {
@@ -21,13 +28,9 @@
 }
 </style>
 
----
-title: "Research"
----
-
 <br>
 
-#### **Recent Articles**
+#### Recent Articles
 
 ::: {.column width="85%"}
 <p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R., Grinspoon, L., Wu, C., Jung, L., Wilmer, J., & Germine, L. (under review). **No evidence for consistent reliability across 36 variations of the emotional dot probe task in 9,000 participants.** </p>
@@ -72,7 +75,7 @@ title: "Research"
 
 ---
 
-#### **Recent Posters**
+#### Recent Posters
 
 ::: {.column width="85%"}
 <p class = "article"> <u>Xu, I.</u>, Hawks, Z., Wu, C., Ferreira, M., Bowers, E., Strong, R., Li, F., Grinspoon, E., Beard, C., Germine, L. (Sept 2022). **Patient Responses to Return of Research Results in two EMA Studies of Cognition and Emotion.** Poster Presented at Society for Research in Psychopathology, Philadelphia, PA.
