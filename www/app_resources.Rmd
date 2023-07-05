@@ -1,5 +1,5 @@
 ---
-title: "Resources for Clinical Psychology PhD Applicants"
+title: "PhD Application Resources"
 output:
   html_document:
     toc: true    
@@ -8,124 +8,142 @@ output:
     collapsed: false
     smooth_scroll: true
 ---
-
-Last Updated: `r Sys.Date()`
-
-<br> 
-
-#### **1. Non-Profits/Student-Led Programs**    
-
-* [Project SHORT](https://www.project-short.com/) matches applicants with mentors in a related field to provide one-to-one mentoring. "One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM."    
-
-* [Application Statement Feedback Program (ASFP)](https://www.asfp.io): "Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’"   
-
-* [Psychin'Out](https://www.psychinout.org/) has a [resource hub](https://www.drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof) of application materials with a slack channel for people at different stages of their careers.    
-
-* [An Application Group](https://www.psychphdeat.com/resources) for applicants interested in eating disorders   
-
-
-<br/>
-
-#### **2. Universities' Programs**    
-
-Some universities have programs for applicants coming from diverse backgrounds. You usually need to apply for them and they would do their best to make the process fair regardless of where you are in your journey. Even if you don't apply for these programs, their websites usually have information from previous years' workshops. Personally I attended the first three and they have been helpful and empowering in different ways.            
-
-* [Harvard: Prospective Ph.D. & RA Event in Psychology (PPREP)](https://psychology.fas.harvard.edu/pprep)    
-
-* [UNC: Diversifying Psychology Weekend (DPW)](https://psychology.unc.edu/diversifying-psychology-weekend/)    
-
-* [Rutgers: Diversifying Psychology Program](https://sites.rutgers.edu/rdpd/)   
-
-* [University of Minnesota: Next-Gen Psych Scholars Program](https://icd.umn.edu/outreach/next-gen-psych-scholars/)    
-
-* [University of Michigan: STAR Scholars Program](https://lsa.umich.edu/psych/undergraduates/star-scholars-program.html)    
-
-* [Stanford: Paths to PhD](https://psychology.stanford.edu/diversity/paths-phd)   
-
+<style>
+  .title{
+    color: #294759;
+    margin-bottom: -1%;
+    font-size: 18pt
+  }
+  body {
+    font-size: 12pt;
+    color: #294759;
+    line-height: 1.8em;
+  }
+  h4 {
+    font-size: 15pt;
+    color: #294759;
+    margin-bottom: 20px;
+  }
+</style>
 
 <br>
 
-#### **3. Resources on Getting in**      
 
-* The classic [Mitch Prinstein’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)    
+#### **Recruitment/Diversity Programs**    
 
-* A video by Mitch Prinstein on [Getting Into Psych Grad School During the Time of COVID](https://www.youtube.com/watch?v=f-5DjLRKCHQ&ab_channel=MitchPrinstein)  
+Some universities have programs for applicants coming from diverse backgrounds. You usually need to apply for them and they would do their best to make the process fair regardless of where you are in your journey. Even if you don't apply for these programs, their websites usually have information from previous years' workshops. Personally I attended the first three and they have been helpful.    
+One particular advantage of university programs is to hear from their own faculty and sometimes even get the chance to talk to them and/or receive feedback from them. If you are interested in a particular faculty or a particular program, definitely try apply to their recruitment program if you can!               
 
-* [A guide by Dr. Jessica Hamilton's Lab](https://docs.google.com/document/d/1JAGQ79JNzHfJwZM7ED8honc3GDLRG4Gmz_GGPxJ_4iY/edit) on what to do every year in college and beyond to get into clinical programs    
+* Harvard: [Prospective Ph.D. & RA Event in Psychology (PPREP)](https://psychology.fas.harvard.edu/pprep)
+* University of North Carolina: [Diversifying Psychology Weekend (DPW)](https://psychology.unc.edu/diversifying-psychology-weekend/)
+* Rutgers: [Diversifying Psychology Program](https://sites.rutgers.edu/rdpd/)
+* University of Minnesota: [Diversity in Psychology Program](https://cla.umn.edu/psychology/about/diversity-and-inclusion/diversity-psychology-program)
+* University of Michigan: [STAR Scholars Program](https://lsa.umich.edu/psych/undergraduates/star-scholars-program.html)
+* Stanford: [Paths to PhD](https://psychology.stanford.edu/diversity/paths-phd)
+* University of Washington: [A Sneak Peek for Graduate School](https://psych.uw.edu/diversity/virtual-recruitment-event)
+* Stony Brook: [Weekly Psychology Graduate School Application Cafe](https://twitter.com/JSchleiderPhD/status/1305675175292272641)
 
-* [Harvard's Psychology’s PhD Resources and Online Tips Page (PRO-TiP)](https://psychology.fas.harvard.edu/pro-tip)    
+***
 
-* [Duke's Guide](https://psychandneuro.duke.edu/undergraduate/psychology/current-students/grad-school-advice)    
+#### **Non-Profits/Student-Led Programs**    
 
-* [Mallory L. Dobias' Guide](https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132)   
+Many of the following programs offer one-to-one mentorship, but even if you are not able to sign up for it, go check out their resources pages. They try to make as many resources available to all.   
 
-* [Sophie Choukas-Bradley's Guide](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fb4dd76-4931-458a-8130-cdd69172f417/a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221115%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221115T042037Z&X-Amz-Expires=86400&X-Amz-Signature=803cf77990598f40440c85b459652b9909db7e125f2718a81b57bd713c37bf52&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22a-students-perspective-on-applying-to-graduate-school-in-clinical-psychology.pdf%22&x-id=GetObject)
+* [Project SHORT](https://www.project-short.com/) matches applicants with mentors in a related field to provide one-to-one mentoring. "One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM."
+* [Application Statement Feedback Program (ASFP)](https://www.asfp.io): "Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’"
+* [Psychin'Out](https://www.psychinout.org/) has a [resource hub](https://www.drive.google.com/drive/u/0/folders/1INKBbyDCCNqSPDMIqK8kpdLk9k8Pqyof) of application materials and slack channels for people with different background and are at different stages of their careers.
+* [NextGen Psych Scholars Program (NPSP)](https://nextgenpsychscholars.com/) is a virtual graduate student-led mentorship program for underrepresented (e.g., BIPOC, low-income, first-gen, LGBTQIA+) undergraduates and post-baccalaureates interested in applying to psychology PhD programs.
+* [Getting into Grad School](https://www.psychphdeat.com/resources) is a program for applicants who plan to apply for Clinical Psychology programs in the current cycle. They provide monthly meetings, feedback on application materials and interview practice.
 
-* [Jasmine Mote's Guide](https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit)
+***
 
-* [Claire Whiting's Guide](https://www.clairewhiting.com/resources/applying-to-psych-phds)
+#### **Career Options**
 
-* [Elayne Zhou's Guide](https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d)
+* The classic [Mitch Prinstein’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
+* A beautiful visual guide on related [Careers in Clinical Psychology](https://www.thehamiltonlab.org/_files/ugd/daa781_0c5a064f63f84b72992c5cd3aa968e74.pdf)
 
-* [Lucy Lai's Guide](https://lucy-lai.com/blog/gradapps.html)       
+***
 
-* [Finding a faculty advisor](https://psych.princeton.edu/finding-faculty-advisor) describes why and how to email faculty   
-
+#### **Resources on Getting in**  
+* A video by [Dr. Mitch Prinstein](https://mitch.web.unc.edu/) on [Getting Into Psych Grad School During the Time of COVID](https://www.youtube.com/watch?v=f-5DjLRKCHQ&ab_channel=MitchPrinstein)
+* [Your Guide to Getting In](https://clinicalpsychgradschool.org/) by The Council of University Directors of Clinical Psychology (CUDCP) with resources on how to choose a field, choose a program, and post-bacc positions
+* [What is the Path to a Clinical Psychology PhD?](https://www.thehamiltonlab.org/_files/ugd/e30453_fe76f86432834636b5a67ee4fb239646.pdf) by the [Hamilton Lab](https://docs.google.com/document/d/1BupU8-RzXZwVrURUc5tNGqEAw7BCNHcfqoPVQBSrwJQ/edit#heading=h.su9eobgck7s5) at Rutgers University
+* [Harvard's Psychology’s PhD Resources and Online Tips Page (PRO-TiP)](https://psychology.fas.harvard.edu/pro-tip)
+* [Graduate School Advice](https://psychandneuro.duke.edu/undergraduate/psychology/current-students/grad-school-advice) by Duke University
+* [Open Access Tips/Materials for Clinical Psych PhD Applications](https://mallorydobias.medium.com/open-access-tips-materials-for-clinical-psych-phd-applications-e9e81be3d132), [Mallory Dobias](https://mallorydobias.github.io/), a psychology PhD student at Stony Brook
+* [A Student’s Perspective on Applying to Graduate School in (Clinical) Psychology: A Step-by-Step Guide](https://docs.google.com/document/d/1yhc3pIhtKTbtNGp8pEkdD6mhNULJsLmxQ-9cuEf2dNA/edit) by [Dr. Sophie Choukas-Bradley](https://www.sophiachoukasbradley.com/), an Assistant Professor of Psychology at the University of Pittsburgh
+* [So You’re Applying to Clinical Psychology Graduate Programs](https://docs.google.com/document/d/19Gh4T4dTpA1tgPftkw2iAI04zOE9X7DV/edit) by [Dr. Jasmine Mote](https://jasminemote.com/), Research Assistant Professor at Boston University
+* [Applying to Psychology PhDs (in the US)](https://www.clairewhiting.com/resources/applying-to-psych-phds) by [Claire Whiting](https://www.clairewhiting.com/home), a psychology PhD student at Princeton
+* [Applying to Clinical/Counseling Psych PhDs: Open Access Materials, Tips, Pitfalls](https://steep-wavelength-0f6.notion.site/Applying-to-Clinical-Counseling-Psych-PhDs-Open-Access-Materials-Tips-Pitfalls-f5fb95046ede406b9baa70b319bbe96d) by [Elayne Zhou](https://elaynezhou.wordpress.com/grad-school-resources/), a clinical psychology PhD student at the University of Southern California
+* [How Applying to Graduate School Works](https://www.sokolhessnerlab.com/howapplyingworks) by the [Sokol-Hessner Lab](https://www.sokolhessnerlab.com/), a psychology lab at the University of Denver
+* [All About PhD Applications](https://lucy-lai.com/blog/gradapps.html) by [Lucy Lai](http://lucy-lai.com/), a neuroscience PhD student at Harvard
+* [REACH for Graduate School in Psychology](https://sites.google.com/view/reach-for-graduate-school/home) has resources to help students applying to masters and doctoral programs in psychology, including things to consider before applying, how to apply, etc.
+* [Finding a faculty advisor](https://psych.princeton.edu/finding-faculty-advisor) describes why and how to email faculty
 * [How to email faculty](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might)  
 
+***
 
-<br> 
+#### **Statement of Purpose**
 
-#### **4. How to Write a Statement of Purpose**
+Many of the guides above describe how to write a good statement of purpose (SOP). Here are some more!  
 
-* [Mitch Prinstein & ASFP's video](https://www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation)  
+* The [PhD App SOP Resources](https://drive.google.com/drive/u/0/folders/1pZm0wXg5ZjSYXCUI6YKSOtHH34wKS3MI) by Psychin'Out has sample SOPs and instructions. 
+* [Clinical Psychology Graduate School Personal Statement Examples](https://docs.google.com/document/d/11vTrJDNSXJR0w7SYhz_nYJ8oc6OA6DXAhStWrLxfaQ8/edit) by [Dr. Craig Rodriguez-Seijas](https://sites.lsa.umich.edu/splat-lab/splat/) and [Dr. Jessica Schleider](https://www.schleiderlab.org/labdirector.html)
+* [Mitch Prinstein & ASFP's video](https://www.youtube.com/watch?v=2UZ8c7HY0N0&t=27s&ab_channel=AmericanPsychologicalAssociation)
+* [Dr. Andrew Kiselica's Tweets](https://twitter.com/AndrewK_PhD/status/1578707948427415552)  
+* [Dr. Sarah Victor's Tweets](https://twitter.com/sarahevictor/status/1581842002307477505)
 
-* [Dr. Andrew Kiselica's Twitter Thread](https://twitter.com/AndrewK_PhD/status/1578707948427415552)  
+***
 
-<br>
+#### **Diversity Statement**
 
-#### **5. How to Write a Diversity Statement**
+Diversity Statement is a relatively new application material. A few schools require them and they usually have specific prompts. There hasn't been many resources on how to write a good diversity statement as a psychology PhD applicant yet. If you know of one, please let me know! (form at the end of the page).   
 
-* [Dr. Aisha Dickerson's Twitter Thread](https://twitter.com/aisha_dickerson/status/1585302118985891840)   
+* [Dr. Aisha Dickerson's Tweets](https://twitter.com/aisha_dickerson/status/1585302118985891840)   
+* A YouTube video by a current grad student, JoJo Douglas: [Ask yourself these 5 questions before writing your diversity statement! | Clinical Psychology](https://www.youtube.com/watch?v=GiSe_tnkKGc&ab_channel=JoJoDouglas)
+* [Developing and Writing a Diversity Statement](https://cft.vanderbilt.edu/guides-sub-pages/developing-and-writing-a-diversity-statement/) by Vanderbilt University. 
+* [GRAD Guide to Diversity Statements](https://grad.uchicago.edu/wp-content/uploads/2020/09/Guide-to-Diversity-Statements.pdf) by University of Chicago
+* [Diversity Statement Examples](https://physicalsciences.ucsd.edu/_files/examples-submitted-diversity-statements.pdf) by UCSD
 
-<br>
+***
 
-#### **6. Resources on Interviews**
+#### **Interview**
 
 * [Questions to ask current PhD students](https://forum.thegradcafe.com/topic/13271-questions-to-ask-current-students-in-phd-programs/)
-
-* [Mitch Prinstein's Guide on Interviews](https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf)  
-
+* [Mitch Prinstein's Guide on Interviews](https://motivation.uky.edu/files/2013/09/prinstein-how-to-interview-for-grad-school.pdf)
 * [Mitch Prinstein & APA's video on interviews](https://www.youtube.com/watch?v=3ueGQY8mHJo)
-
+* [Preparing For Interviews](https://github.com/SavannahRoberts/GradSchoolInterviewsWebinar/blob/main/Webinar_PreparingforInterviews.pdf) by [Savannah Roberts], a clinical and developmental psychology PhD student at the University of Pittsburg
 * [How to Prepare for Interviews](https://psychology.ucsd.edu/undergraduate-program/undergraduate-resources/graduate-career-resources/applying-grad-school/interviews.html)   
-
 * [Common Questions asked in interviews](https://www.depts.ttu.edu/psy/advising/files/Workshop/GradschoolInterviewQuestions.pdf)
-
 * [Questions to Ask Faculty](https://twitter.com/Michelle_Heck1/status/1584247043484454913)  
+* [Psych Interview Questions Archive](https://docs.google.com/spreadsheets/d/1cLs-WI-iuPj4FulXBY1Xe8-Q7UQZhCfS/edit#gid=2135364591)
 
-<br>
+***
 
-#### **7. Fellowships**
+#### **Fellowships**
 
-* [The Illinois Database of Grants and Fellowships for Graduate Students](https://apps.grad.illinois.edu/fellowship-finder/)    
-
-* [Psychology and Education Fellowships for Graduate Students (including those for international students)](https://docs.google.com/spreadsheets/d/1e9hAxj5mqUZGHp9yUzwKEG1DWdDJNNFXNCZEYx3dghM/edit#gid=0)    
-
+* [The Illinois Database of Grants and Fellowships for Graduate Students](https://apps.grad.illinois.edu/fellowship-finder/)
+* [Psychology and Education Fellowships for Graduate Students (including those for international students)](https://docs.google.com/spreadsheets/d/1e9hAxj5mqUZGHp9yUzwKEG1DWdDJNNFXNCZEYx3dghM/edit#gid=0)
+* Dartmouth College's Database on [Fellowships for International Students](https://students.dartmouth.edu/fellowship-advising/fellowships/international-student-opportunities/all-nationalities)
 * [Scholarships & Financial Aid For LGBTQ Students](https://www.gograd.org/financial-aid/scholarships/lgbtq/)   
 
+***
 
-<br/>
+#### **Post-bacc Opportunities**
 
-#### **8. Additional Resources for Underrepresented Scholars**      
+* [Psychology Postbacc Job Databases](https://docs.google.com/spreadsheets/d/1HSvmGoFVW4ehiLns0MG2ydUiGmIcptD0cCgkSxRT_pg/edit#gid=0) by Psychin'Out
+* [Forum by The Council of University Directors of Clinical Psychology (CUDCP)](https://clinicalpsychgradschool.org/forums/forum/opportunities/)
 
-* [Resources for International Applicants in Clinical Psychology](https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit)      
+***
 
-* [Community for Queer Academics in Psychology & Neuroscience](https://www.queerpsychneuro.com/)    
+#### **Additional Resources for Underrepresented Scholars**      
 
+* [Black In Neuro](https://blackinneuro.com/) aims to diversify the neurosciences by building a community that celebrates and empowers Black scholars and professionals in neuroscience-related fields
+* [Resources for International Applicants in Clinical Psychology](https://docs.google.com/document/d/1EMH18efUUswyLAf9mBSd0oePI_e4J4CAbfrynDhS40A/edit)
+* [Community for Queer Academics in Psychology & Neuroscience](https://www.queerpsychneuro.com/)
 * [How to Become a Scientist While Poor](http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor)
+* "The [Safe Faculty Project](https://sites.google.com/view/safefacultyproject) serves as an anonymous and safe space to empower individuals interested in sharing their experiences and supporting others. Individuals are also encouraged to report and review reports of harassment, abuse, or misconduct using our anonymous reporting form and public database. "
 
-
-<br>
-
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A). 
+---
+<p style = "font-size: 11.5pt; font-weight: 500">Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
+Page last updated: `r Sys.Date()`</p>

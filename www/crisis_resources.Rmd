@@ -1,0 +1,220 @@
+---
+title: "Crisis Resources"
+output:
+  html_document:
+    toc: true    
+    toc_depth: 4
+    toc_float: true
+    collapsed: false
+    smooth_scroll: true
+---
+<style>
+  .title{
+    color: #294759;
+    margin-bottom: -1%;
+    font-size: 18pt
+  }  
+  h3 {
+    font-size: 16pt;
+    color: #294759;
+  }  
+  h4 {
+    font-size: 15pt;
+    color: #294759;
+    margin-bottom: 20px;
+  }
+  body {
+    font-size: 12pt;
+    color: #294759;
+    line-height: 1.8em;
+  }
+</style>
+
+<br>
+
+### **I Feel Suicidal**
+
+<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. </u></p>
+
+<p style = "color: white;background-color: #487494;padding: 10px;font-family: Verdana;font-size: 11.5pt">
+You may feel that your life will never get better and life is not worth living.    
+You may feel lonely, no one cares about you, or no one is able to reach you at where you are.     
+Or you may be feeling something entirely different. It is ok to have these feelings and sometimes it makes you feel clearer when you talk to someone.    
+Though few people would be able to understand what you are going through, they want to listen to you and look into the abyss with you.    
+Please give them a chance. Your story is important. 
+</p>
+
+Depending on what you are comfortable with, below are a few options for you to talk to someone.      
+
+***
+<h4><u>**Someone You Know**</u></h4>
+* Call a trusted family or a friend who can listen to you without judgement
+
+* Call your therapist, counselor, or doctor's office
+
+***
+<h4><u>**Emergency Services**</u></h4>
+
+If you feel comfortable seeking emergency services, you can
+
+* Call 911 for all emergencies (in the United States)
+
+* Call 988 for mental health crisis (in the United States)
+
+* Go to a hospital emergency room
+
+* Ask a family or friend to make the calls or take you to the hospital
+
+***
+
+<h4><u>**Crisis Hotlines w/o Active Rescue**</u></h4>
+
+<p style = "color: #0C7BDC">**Note. These resources DO NOT arrange emergency servies for you.**</p>
+
+* [Trans Lifeline](https://translifeline.org/) 1-877-565-8860 for transgender, non-binary, intersex, and others with diverse gender identities.
+
+* [Call BlackLine](https://www.callblackline.com/) 1-800-604-5841 for BIPOC folks.    
+
+* [Samaritans NYC](https://samaritansnyc.org/) 1-212-673-3000 
+
+* [THRIVE Lifeline](https://thrivelifeline.org/) offers 24/7 text-based crisis support to anyone 18+ with specific focus on multiply marginalized communities. Text “THRIVE” to begin your conversation with us 24/7/365, from anywhere: +1.313.662.8209
+
+Learn about [What Happens When You Call Into A Suicide Prevention Hotline](https://www.buzzfeednews.com/amphtml/carolinekee/what-happens-when-you-call-suicide-hotline)
+
+Text 401-400-2905 to reach [Project LETS](https://projectlets.org/)'s Cisis Support Team for urgent support with psychiatric incarceration/involuntary hospitalization 
+
+***
+<h4><u>**Crisis Hotlines**</u></h4>
+
+<p style = "color: #0C7BDC">**Note. These resources MAY arrange emergency services for you against your will if they determine that you may be a harm to yourself or others.**</p>
+
+**Hotlines in the United States (Free 24/7)**
+
+* Call [988](https://988lifeline.org/) for the National Suicide & Crisis Lifeline. Si hablas español, llama a [1-888-628-9454](https://988lifeline.org/help-yourself/en-espanol/). [What Happens When I call 988?](https://screening.mhanational.org/content/what-happens-if-i-call-suicide-prevention-lifeline/)    
+
+* [Crisis Text Line](https://www.crisistextline.org/) Text "HOME" to 741741  
+
+* [Veterans Crisis Line](https://www.veteranscrisisline.net/) Call 988 and press 1, text 838255, or [chat online](https://www.veteranscrisisline.net/get-help-now/chat/)
+
+* Call [Trevor Lifeline](https://www.thetrevorproject.org/), 1-866-488-7386, a free and confidential suicide hotline for LGBT youth. Or text "START" to 678-678 for their text services. 
+
+**International Hotlines**
+
+* [Hotlines in Canada](https://suicideprevention.ca/resources/)
+
+* [International Suicide Hotlines](https://blog.opencounseling.com/suicide-hotlines/)
+
+* [Find a Hotline by Location and Topic](https://findahelpline.com/i/iasp)
+
+***
+
+<h4><u>**Mental Health Resources**</u></h4>
+
+* Find [free and affordable therapy](https://www.opencounseling.com/) near you and see options fo [state sponsored therapy](https://blog.opencounseling.com/public-mental-health-us/)
+
+* [National Runaway Safeline](https://www.1800runaway.org/) answer calls, texts and emails from run away youth and concerned adults. It also has a forum and resources 
+
+* [National Sexual Assult Hotline](https://www.rainn.org/): Call 1-800-656-4673 or [chat online](https://hotline.rainn.org/online)
+
+* [Self-Injuy Outreach and Support](https://sioutreach.org/)
+
+* An exhaustive list of [Mental Health Resources](https://www.thehamiltonlab.org/_files/ugd/e30453_8fe269938c894aabb5634b0c649df417.pdf) in the US compiled by the [Hamilton Lab](https://www.thehamiltonlab.org/)
+
+***
+
+### **I Want to Help Someone**
+
+It is important and sometimes scary to help someone who is suffering internally. While emergency services can save lives, they can also lead to further traumatization in some cases. Before you take someone to the hospital, report their suicidal thoughts to the authority, or call emergency services on their behalf, please consider the potential consequences outlined below. 
+
+#### <u>**Why Approach Matters**</u>
+
+**Why do we care about the approach (active vs. no active rescue) these hotlines take?**   
+<font size = "2.8">(some adapted from this [Twitter thread by Dr. Emily Krebs](https://twitter.com/SaltySicky/status/1568751393086783494))</font>
+
+* People experience suicidal thoughts differently. A person may suddenly become suicidal following a recent event, or they can be chronically suicidal, meaning that they always consider suicide as an option at the back of their mind.
+
+* Being suicidal does not mean that a person will carry out suicidal behaviors or need to be immediately hospitalized. Yes, hearing that a loved one is thinking about suicide can be incredibly scary, but calling emergency services on them may not be the most helpful approach.   
+
+* Reporting someone for being suicidal can get them [kicked out of college](https://www.washingtonpost.com/dc-md-va/2022/11/11/yale-suicides-mental-health-withdrawals/), [fired from jobs](https://www.reddit.com/r/SuicideWatch/comments/vsw4b/update_to_just_got_fired_for_being_suicidal/), and sometimes even [lose custody of their kids](https://farzadlaw.com/can-a-suicidal-parent-lose-custody). **Mandatory reporting policies are dangerous & are aimed at protecting businesses and organizations from liability, not helping people.**   
+
+* The UN has called involuntary psychiatric care a form of torture but it's still regularly practiced on suicidal patients in the US. Involuntary 72-hour ("5150") holds are the norm for people deemed a threat to themselves. 5150 holds are one of the only legal circumstances in the USA where people can be forced to undergo medical treatments and ingest food or liquids against their will. 
+
+* Suicide risk following involuntary psychiatric hospitalization skyrockets [$^1$](https://pubmed.ncbi.nlm.nih.gov/31162700/) [$^2$](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5710249/). While 5150 holds may prevent a person from dying in one moment of crisis, they don't protect people long term. 988 openly engages in *nonconsensual* active rescue despite its harms and lack of effectiveness. **Callers seeking phone support can end up being escorted by police to a psychiatric hospital against their will--sometimes at gunpoint if the officers deem the person dangerous.** Individual who belong to racial or gender minority groups or have disabilities face greater risk of being traumatized.   
+
+* Text 401-400-2905 for urgent support with psychiatric incarceration/involuntary hospitalization 
+
+***
+
+#### <u>**Help Someone Suicidal**</u>
+
+* a 5 minute video on [Managing a Mental Health Emergency](https://www.youtube.com/watch?v=wxpGOhGrLn8&ab_channel=ProjectLETS) without breaking the trust
+
+* [How To Ask Someone If They Are Thinking About Suicide](https://jedfoundation.org/resource/how-to-ask-someone-if-theyre-thinking-about-suicide/)
+
+* [When You’re Worried About a Friend Who Doesn’t Want Help](https://jedfoundation.org/resource/when-youre-worried-about-a-friend-who-doesnt-want-help/)
+
+* [10 Tips for Talking to Your Teen About Their Mental Health](https://jedfoundation.org/resource/tips-for-talking-to-your-teen-about-their-mental-health/)
+
+* The [Five Action Steps](https://www.bethe1to.com/bethe1to-steps-evidence/) for communicating with someone who may be suicidal
+
+* The [#RealConvo Guide](https://talkawaythedark.afsp.org/startaconversation/) on How to Start (and Continue!) a Conversation About Mental Health
+
+***
+
+#### <u>**Help Someone Who Self-Injure**</u>
+
+* [Supporting Someone who Self-Injures](https://www.itriples.org/_files/ugd/8e644b_c7eab12a5fe04e359de67a3916dc2b35.pdf)
+
+* [Coping with self-harm: A Guide for Parents and Carers](https://www.oxfordhealth.nhs.uk/wp-content/uploads/2016/09/copy_of_coping-with-self-harm-brochure_final_copyright.pdf)
+
+* [Self-harm: Parents' experiences](https://healthtalk.org/self-harm-parents-experiences/overview)
+
+* [Non-Suicidal Self-Injury: A Course for Parents](http://www.selfinjury.bctr.cornell.edu/training.html#tab4)
+
+* [How can I help a friend who self-injures?](http://www.selfinjury.bctr.cornell.edu/perch/resources/how-can-i-help-a-friend-english.pdf)
+
+* [Common Mistakes We Make When Supporting Others & What To Do Differently](https://static1.squarespace.com/static/5a75d2f2c027d8bcb6dae62b/t/6118064f1b32ac0c9144ed8b/1628964432138/Common+Support+Mistakes.pdf)
+
+***
+
+### **I Lost Someone To Suicide**  
+
+* [Alliance of Hope for Suicide Loss Survivors](http://www.allianceofhope.org/) has many resources about people's grief journey, including a forum for the community and support groups    
+
+* [After A Suicide Resource Directory](http://www.personalgriefcoach.net/)
+
+* American Foundation for Suicide Prevention's [Resources on I've lost someone](https://afsp.org/ive-lost-someone/)
+
+***
+
+### **I Want To Learn**
+
+* What are suicide risk levels and what to do at each level? (by [Open Counseling](https://blog.opencounseling.com/what-to-do-when-youre-thinking-about-suicide/)) ![](media/suicide-risk-levels.webp){width=80%}
+
+* [Unpacking Self-Harm: Understanding What It Is and Why It Helps](https://static1.squarespace.com/static/5a75d2f2c027d8bcb6dae62b/t/61f06d72055db7274de7a815/1643146610285/self-harm.pdf)
+
+**Learn from the lived experiences of suicide survivors**
+
+* [Live Through This](https://livethroughthis.org/) has an incredible collection of narratives shared by suicide survivors. 
+
+**Learn from the lived experiences of people who self-injure**
+
+* [To Write Love on Her Arms](https://twloha.com/blog/topics/self-injury/)
+
+* [Self-Injuy Outreach and Support](https://sioutreach.org/)
+
+**Learn about anti-carceral mental healthcare practices (meaning care where patients don't lose their rights or autonomy)**
+
+* Discussions on [Decarerating Care](https://www.idha-nyc.org/decarcerating-care) by the Institute for the Development of Human Arts that advocates for [Transformative Mental Health](https://www.idha-nyc.org/about-idha) which focuses on systematic change, experiential knowledge and holistic care.
+
+* "[Project LETS](https://projectlets.org/) is a national grassroots organization and movement led by and for folks with lived experience of mental illness/madness, Disability, trauma, & neurodivergence. ... We work for and with multiply marginalized folks in our communities to provide access, political education, & material resources that are needed to survive and thrive. "
+
+* "[Fireweed Collective](https://fireweedcollective.org/) offers mental health education and mutual aid through a Healing Justice and Disability Justice lens." They provide support groups, workshops, and an awesome [crisis toolkit](https://fireweedcollective.org/crisis-toolkit/). 
+
+* "[Mad In America](https://www.madinamerica.com/)’s mission is to serve as a catalyst for rethinking psychiatric care in the United States (and abroad). We believe that the current drug-based paradigm of care has failed our society, and that scientific research, as well as the lived experience of those who have been diagnosed with a psychiatric disorder, calls for profound change." They use "a mix of journalism, education and societal discussion" to "provide the seed for a much-needed remaking of mental health care in the United States and globally."
+
+* [Trans Lifeline](https://translifeline.org/) has an incredible [resources page](https://translifeline.org/resources/) for all sorts of struggles, especially for people with minorotized gender and racial identities with limited financial resources.   
+
+---
+<p style = "font-size: 11.5pt; font-weight: 500">Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
+Page last updated: `r Sys.Date()`</p>

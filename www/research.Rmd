@@ -1,0 +1,119 @@
+
+<style type="text/css">
+  .title{
+    color: #294759;
+    margin-bottom: -1%;
+    font-size: 18pt
+  }
+  body {
+    font-size: 12pt;
+    color: #294759;
+    line-height: 1.8em;
+  }
+  h4 {
+    font-size: 15pt;
+    color: #294759;
+    margin-bottom: 20px;
+  }
+  .article {
+    margin-bottom:20px;
+    font-size: 11pt;
+}
+</style>
+
+---
+title: "Research"
+---
+
+<br>
+
+#### **Recent Articles**
+
+::: {.column width="85%"}
+<p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R., Grinspoon, L., Wu, C., Jung, L., Wilmer, J., & Germine, L. (under review). **No evidence for consistent reliability across 36 variations of the emotional dot probe task in 9,000 participants.** </p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Preprint](https://www.psyarxiv.com/58z4n)
+:::
+
+::: {.column width="85%"}
+<p class = "article"> Millner, A., Coppersmith, D. D., Fortgang, R., Rankin, O., <u>Xu, I.</u>, Daniel, M., ... & Nock, M. K. (under review). **Characterizing suicidal thinking: Examining momentary and daily motivational states, intent and thought content.**
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Preprint](https://osf.io/q4wev)
+:::
+
+
+::: {.column width="85%"}
+<p class = "article"> Hawks, Z.W., Beck, E.D., Jung, L., Fonseca, L.M., Sliwinski, M., Weinstock, R.S., Grinspoon, E., <u>Xu, I.</u>, ... & Germine, L.T. (2023). **Dynamic associations between glucose and ecological momentary cognition in Type 1 Diabetes.**
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Preprint](https://psyarxiv.com/h7q96/)
+:::
+
+
+::: {.column width="85%"}
+<p class = "article"> Singh, S., Strong, R., <u>Xu, I.</u>, Fonseca, L. M., Hawks, Z., Grinspoon, E., ... & Germine, L. T. (2023). **Ecological Momentary Assessment of Cognition in Clinical and Community Samples: Reliability and Validity Study.** *JMIR, 25*, e45028.  
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link to full text](https://www.jmir.org/2023/1/e45028/)
+:::
+
+---
+
+#### **Recent Posters**
+
+::: {.column width="85%"}
+<p class = "article"> <u>Xu, I.</u>, Hawks, Z., Wu, C., Ferreira, M., Bowers, E., Strong, R., Li, F., Grinspoon, E., Beard, C., Germine, L. (Sept 2022). **Patient Responses to Return of Research Results in two EMA Studies of Cognition and Emotion.** Poster Presented at Society for Research in Psychopathology, Philadelphia, PA.
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://docs.google.com/presentation/d/1-WbuhEclD7IrZZjmDVyVom3fcIL_4GPd/edit?usp=sharing&ouid=100799767484704214514&rtpof=true&sd=true)  
+:::
+
+::: {.column width="85%"}
+<p class = "article"> Grinspoon, E., Jung, L., Li, F., Passell, E., Scheuer, L., Hawks, Z., Strong, R., Singh, S., <u>Xu, I.</u>, & Germine, L. (Sept 2022). **How Does Returning Cognitive Test Results Impact Performance over Time?** Poster Presented at Society for Research in Psychopathology, Philadelphia, PA.
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://docs.google.com/presentation/d/1II4foE8VE4SZqOMAfn9_np9FM38qJ6FV0fulmYlXPAw/edit?usp=sharing)   
+:::
+
+::: {.column width="85%"}
+<p class = "article"> Wu, C., <u>Xu, I.</u>, Passell, E., Beard, C., & Germine, L. (March 2022). **The Older, the Merrier: Older Adults Have Greater Positive Interpretation Biases.** Poster Presented at Harvard Psychiatry Research Day. Cambridge, MA. 
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://docs.google.com/presentation/d/1UTG1GWxcFLKsCgSQqMXULOJ_6i_-IvXWxxqIvZqVy2E/edit?usp=sharing)   
+:::
+
+::: {.column width="85%"}
+<p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R., Grinspoon, E., & Germine, L. (March 2022). **Attentional Bias for Threat: Reliability of 36 Versions of the Threat Dot Probe Task.** Poster Presented at Harvard Psychiatry Research Day, Cambridge, MA.
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://docs.google.com/presentation/d/1aCFDA1ghLOf54COhUPxD1bBCbIa4845D/edit?usp=sharing&ouid=100799767484704214514&rtpof=true&sd=true)
+:::
+
+---
+<p style = "font-size: 11.5pt; font-weight: 500">Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
+Page last updated: `r Sys.Date()`</p>

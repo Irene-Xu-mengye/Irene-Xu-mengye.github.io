@@ -1,0 +1,45 @@
+---
+title: "Resources for Conducting Research"
+output: html_document
+---
+
+<style>
+  .title{
+    color: #294759;
+    margin-bottom: -1%;
+    font-size: 18pt
+  }
+  body {
+    font-size: 12pt;
+    color: #294759;
+    line-height: 1.8em;
+  }
+  h4 {
+    font-size: 15pt;
+    margin-bottom: 20px;
+  }
+</style>
+
+<br>
+
+
+#### **Funding Sources**
+
+* [Psychology Funding Directory](https://docs.google.com/spreadsheets/d/1b5jf-CWuj-qVNf4LBV__36nIxSHIftVQHFvjI-wm_3o/edit#gid=0) by Psychin'Out
+
+
+#### **Resources For Suicide Researchers**
+
+* [Dr. Abby Ridge-Anderson](https://twitter.com/AbbyAraCUA) has a website on [Resources For Suicide Researchers](https://abbyraphd.github.io/SRSToolbox/resources.html) that involve suicide related networking, organizations, conferences, training, measures, datasets, etc. 
+
+
+
+
+
+
+
+
+
+---
+<p style = "font-size: 11.5pt; font-weight: 500">Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
+Page last updated: `r Sys.Date()`</p>

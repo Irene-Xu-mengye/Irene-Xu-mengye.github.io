@@ -1,30 +1,27 @@
 name: "www"
 output_dir: "../docs"
+favicon: media/favicon/apple-touch-icon.png
 navbar:
   title: "Irene Xu"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Recent Work"
-      href: recent_work.html
-    - text: "Resources for Suicide"
-      href: suicide_resources.html
-    - text: "Resources for PhD Applicants"
-      href: app_resources.html
-    - text: "Analysis Using R"
+    - text: "About"
+      href: about.html
+    - text: "Research"
+      href: research.html
+    - text: "PhD Application Resources"
+      menu:
+        - text: "How to Get In"
+          href: app_resources.html
+        - text: "---------"
+        - text: "Finding Suicide Labs"
+          href: suicide_researchers.html
+    - text: "Analysis Resources"
       href: r_resources.html
+    - text: "Crisis Resources"
+      href: crisis_resources.html
 
-  right:
-    - icon: fa-envelope 
-      href: mailto:irenexupsych@gmail.com
-    - icon: fa-github
-      href: http://www.github.com/Irene-Xu-mengye
-    - icon: fa-twitter
-      href: https://twitter.com/IreneXu52505455
-    - icon: fa-linkedin
-      href: https://www.linkedin.com/in/irene-x-441588187/
 
 output:
   html_document:
-    theme: yeti
+    theme: lumen
     toc: false
