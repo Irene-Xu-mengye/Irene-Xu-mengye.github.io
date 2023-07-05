@@ -69,5 +69,6 @@ I built this website hosted on GitHub using R markdown. It comes with templates 
   + `r colorize("#FF6999", "#FF6999")`
   
 ---
-<p style = "font-size: 11.5pt; font-weight: 500">Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
+<p style = "font-size: 11.5pt; font-weight: 500;line-height: 0.7cm;">Please email me if you are interested in collaborating or need help with your educational path.    
+Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
 Page last updated: `r Sys.Date()`</p>
