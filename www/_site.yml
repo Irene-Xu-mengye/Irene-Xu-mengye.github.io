@@ -5,7 +5,7 @@ navbar:
   title: "Irene Xu"
   left:
     - text: "About"
-      href: about.html
+      href: index.html
     - text: "Research"
       href: research.html
     - text: "PhD Application Resources"
