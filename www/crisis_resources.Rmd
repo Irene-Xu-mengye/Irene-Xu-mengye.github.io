@@ -36,17 +36,9 @@ output:
 
 ### **I Feel Suicidal**
 
-<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. </u></p>
-
-<p style = "color: white;background-color: #487494;padding: 10px;font-family: Verdana;font-size: 11.5pt">
-You may feel that your life will never get better and life is not worth living.    
-You may feel lonely, no one cares about you, or no one is able to reach you at where you are.     
-Or you may be feeling something entirely different. It is ok to have these feelings and sometimes it makes you feel clearer when you talk to someone.    
-Though few people would be able to understand what you are going through, they want to listen to you and look into the abyss with you.    
-Please give them a chance. Your story is important. 
-</p>
-
-Depending on what you are comfortable with, below are a few options for you to talk to someone.      
+<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. </u></p>  
+Though there is no guarantee that you would feel better afterwards, it could be a space to process the current thoughts and feelings.      
+Depending on what you are comfortable with at the moment, below are a few options for you to talk to someone.      
 
 ***
 <h4><u>**Someone You Know**</u></h4>
@@ -73,13 +65,15 @@ If you feel comfortable seeking emergency services, you can
 
 <p style = "color: #0C7BDC">**Note. These resources DO NOT arrange emergency servies for you.**</p>
 
-* [Trans Lifeline](https://translifeline.org/) 1-877-565-8860 for transgender, non-binary, intersex, and others with diverse gender identities.
+* [Trans Lifeline](https://translifeline.org/) 1-877-565-8860 for transgender, non-binary, intersex, and others with diverse gender identities. It is run by individuals who identify as gender non-conforming.  
 
-* [Call BlackLine](https://www.callblackline.com/) 1-800-604-5841 for BIPOC folks.    
+* [Call BlackLine](https://www.callblackline.com/) 1-800-604-5841 
 
 * [Samaritans NYC](https://samaritansnyc.org/) 1-212-673-3000 
 
 * [THRIVE Lifeline](https://thrivelifeline.org/) offers 24/7 text-based crisis support to anyone 18+ with specific focus on multiply marginalized communities. Text “THRIVE” to begin your conversation with us 24/7/365, from anywhere: +1.313.662.8209
+
+* [Warmlines](https://warmline.org/warmdir.html#directory) are run by peers who have experienced struggles themselves. They usually meet you where you're at and primarily listen. 
 
 Learn about [What Happens When You Call Into A Suicide Prevention Hotline](https://www.buzzfeednews.com/amphtml/carolinekee/what-happens-when-you-call-suicide-hotline)
 
@@ -126,7 +120,7 @@ Text 401-400-2905 to reach [Project LETS](https://projectlets.org/)'s Cisis Supp
 
 ### **I Want to Help Someone**
 
-It is important and sometimes scary to help someone who is suffering internally. While emergency services can save lives, they can also lead to further traumatization in some cases. Before you take someone to the hospital, report their suicidal thoughts to the authority, or call emergency services on their behalf, please consider the potential consequences outlined below. 
+While emergency services can save lives, they can also lead to further traumatization in some cases. Before you take someone to the hospital or report their suicidal thoughts, please consider the potential consequences outlined below. 
 
 #### <u>**Why Approach Matters**</u>
 
@@ -218,6 +212,7 @@ It is important and sometimes scary to help someone who is suffering internally.
 * [Trans Lifeline](https://translifeline.org/) has an incredible [resources page](https://translifeline.org/resources/) for all sorts of struggles, especially for people with minorotized gender and racial identities with limited financial resources.   
 
 ---
-<p style = "font-size: 11.5pt; font-weight: 500;line-height: 0.7cm;">Please email me if you are interested in collaborating or need help with your educational path.    
+<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
+Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
 Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
 Page last updated: `r Sys.Date()`</p>

@@ -25,8 +25,23 @@ output:
 
 <br>
 
+If you are looking for <u>**faculty and researchers specializing in the field of suicide and self injury and are able to admit graduate students or RAs**</u>, you're at the right place!  
 
-To reduce barriers for students passionate about suicide research, especially those from underrepresented backgrounds, there has been efforts to put together resources on finding researchers, research labs, and organizations in the suicide and self-injury field. 
+This list has information about
+
+1. if the researcher **can** accept grad students or RAs, and   
+2. if they plan to accept grad student(s) in the **current cycle**.   
+
+It includes researchers in the field of *clinical psychology, psychiatry, neuroscience, social work, public health, etc,* because there are many career paths where you can contribute to suicide research!      
+
+
+[Open and edit the list in Google Sheet](https://docs.google.com/spreadsheets/d/1SV8bvFvMJQcHBq3tapgODfbhxloYd-Tmwaegvvj-xU8/edit?usp=sharing) or preview below. Please help maintain this list as we rely on <span style = "color: #FF6999"><u>community efforts</u></span>! 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJsK_uW93kUpG4T2R1X4Rhc2XL9y0U99hMX07AwZbw0cNUWettev0ieHU6N6rTHWaUdcDNxXOcO-14/pubhtml?widget=true&amp;headers=false"  width="110%" height="800"></iframe>
+
+***
+
+**Other resources on finding researchers in the suicide and self-injury field:**
 
 * [Psychin'Out](https://www.psychinout.org/) has a list of [PhD Advisor Directory](https://docs.google.com/spreadsheets/d/1SB-y2AxbDhu5UGZbdh-GQ9DemBVPFfz0sW-pb6LW5j8/edit#gid=663188846) organized by research interests including suicide and self-injury.
 
@@ -34,24 +49,11 @@ To reduce barriers for students passionate about suicide research, especially th
 
 * [Dr. Abby Ridge-Anderson](https://twitter.com/AbbyAraCUA) has a website on [Resources For Suicide Researchers](https://abbyraphd.github.io/SRSToolbox/resources.html) that involve suicide related networking, organizations, conferences, training, measures, datasets, etc. 
 
-* To learn about current research or present your work at early-career-friendly conferences, there are two free virtual conferences that I've had good experience with: [Suicide Research Symposium (SRS)](https://www.suicideresearchsymposium.com/home) and [Youth Suicide Research Consortium (YSRC)](https://www.youthsuicideresearch.org/). 
+* There are two **free** early-career-friendly *virtual* conferences where you can learn about current research, connect with others, and present your work: [Suicide Research Symposium (SRS)](https://www.suicideresearchsymposium.com/home) and [Youth Suicide Research Consortium (YSRC)](https://www.youthsuicideresearch.org/) 
 
-***
-
-Since the existing lists are organized by particular application cycles, I tried to compile a list of <u>**faculty and researchers specializing in the field of suicide and self injury and are able to admit students or RAs**</u>.   
-
-This list has columns indicating
-
-1. if the researcher *can* accept grad students or RAs, and   
-2. if they plan to accept grad student(s) in the *current cycle*.   
-
-The list includes not just researchers in the field of clinical psychology, but also the field of psychiatry, neuroscience, social work, public health, etc. While clinical psychology is where most of the research resides in, I believe that suicide prevention benefits from interdisciplinary collaborations and want to show early career scholars that there are many potential career paths where you can contribute to suicide research.      
-
-[Open and edit the list in Google Sheet](https://docs.google.com/spreadsheets/d/1SV8bvFvMJQcHBq3tapgODfbhxloYd-Tmwaegvvj-xU8/edit?usp=sharing) or preview below. Please help maintain this list as we rely on <span style = "color: #FF6999"><u>community efforts</u></span>! 
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJsK_uW93kUpG4T2R1X4Rhc2XL9y0U99hMX07AwZbw0cNUWettev0ieHU6N6rTHWaUdcDNxXOcO-14/pubhtml?widget=true&amp;headers=false"  width="110%" height="800"></iframe>
 
 ---
-<p style = "font-size: 11.5pt; font-weight: 500;line-height: 0.7cm;">Please email me if you are interested in collaborating or need help with your educational path.    
+<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
+Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
 Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
 Page last updated: `r Sys.Date()`</p>

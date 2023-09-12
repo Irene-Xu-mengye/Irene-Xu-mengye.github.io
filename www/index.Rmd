@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Home"
 output:
   html_document:
     includes:
@@ -34,57 +34,61 @@ output:
 
 <br>
 
-::: {.column width="25%"}
 
-<center>![](media/profile_circle.png){width=90%}</center>
+::: {.column width="4%"}
 
-<h3 style = "text-align: center;">Irene Xu</h3>
-<h4>They/Them</h4>
-<p style = "font-family: Verdana;text-align: center;color: #294759; font-size:12pt">PhD Student<br>University of Notre Dame</p>
+<center>![](favicon.png){width=90%}</center>
 
-<a href= "irenexupsych@gmail.com" style="margin-right: 0.4em;">![](media/email_logo.png){width=12%}</a>
-<a href= "https://scholar.google.com/citations?user=8e508PkAAAAJ&hl=en&oi=ao" style="margin-right: 0.4em;">![](media/google-scholar-logo.png){width=12%}</a>
-<a href= "http://www.github.com/Irene-Xu-mengye" style="margin-right: 0.4em;">![](media/github_logo.png){width=13%}</a>
-<a href= "https://osf.io/xkucz/" style="margin-right: 0.4em;">![](media/osf_logo.png){width=13%}</a>
-<a href= "https://twitter.com/irene_xu_mengye" style="margin-right: 0.4em;">![](media/twitter_logo.png){width=13.4%}</a>
-<a href= "https://www.linkedin.com/in/irene-x-441588187/">![](media/linkedin_logo.png){width=12.4%}</a>
-
-:::
-::: {.column width="5%"}
 :::
 ::: {.column width="68%"}
 
-<p style = "font-size: 21pt;font-weight: 540">About</p>  
+<p style = "font-size: 21pt;font-weight: 400">WELCOME</p> 
 
-<p style = "font-size: 13pt"> Thank you for visiting my website. I am Irene Xu [(pronunciation)](https://www.youtube.com/watch?v=6AHj1kS1B3E) and I use they/them [pronouns](https://www.pridetraining.org.au/pages/pronoun-page). I am an incoming PhD student in the Clinical Psychology Program at the University of Notre Dame. I work with Dr. Brooke Ammerman at the Affect, Suicide, Self-Injury, and Social Triggers [(ASSIST) Lab](https://assistlab.nd.edu/) and the Notre Dame Suicide Prevention Initiative - Research, Intervention, and Training ([SPIRIT](https://preventsuicide.nd.edu/)).
-</p>
+:::
+<p style = "font-size: 5pt"></p> 
 
-<p style = "font-size: 15pt;font-weight: 700">Research</p>  
+<p style = "font-size: 14pt">This webpage is maintained by [Irene Xu](about.html), a clinical psychology student, and intended for audiences who want to learn more about</p>  
 
-<p style = "font-size: 13pt"> Some of the questions that my research tries to answer are: </p>
 <ul>
-  <li style = "font-size: 13pt"> Why do some individuals engage in suicidal behaviors while some others are able to stop themselves? 
+  <li style = "font-size: 13pt"> [Irene](about.html) and their [research](research.html)  
+</ul>
+
+<p style = "font-size: 17pt;font-weight: 300">Resources for Applicants</p>  
+<ul>
   </li>
-  <li style = "font-size: 13pt"> Does temporal dissociation serve a protective function that stop the transition from ideation to attempt? 
-  </li>
-  <li style = "font-size: 13pt"> What can we learn from the extremely high rate of SITB in the gender diverse population?
+  <li style = "font-size: 13pt"> [Applying for Clinical Psychology PhD programs](app_resources.html)
+  </li>  
+  <li style = "font-size: 13pt"> [Identifying faculty who study suicide and self-injury](suicide_researchers.html)   
   </li>
 </ul>
 
-<p style = "font-size: 13pt">
-To answer these questions, I employ a wide range of methods, including cross-sectional, longitudinal, and real-time monitoring study designs. Given the complex nature of SITBs, I am trying to develop a statistical expertise in analyzing a variety of data. See my recent projects [here](recent_work.html).
-</p>
+<p style = "font-size: 17pt;font-weight: 300">Resources for researchers</p> 
+<ul>
+  <li style = "font-size: 13pt"> [Data analysis](r_resources.html)   
+  </li>   
+  <li style = "font-size: 13pt"> [Conducting suicide research and connecting with other suicide researchers](https://abbyraphd.github.io/SRSToolbox/resources.html)   
+  </li> 
+</ul>
 
-<p style = "font-size: 15pt;font-weight: 700">Community</p>  
+<p style = "font-size: 17pt;font-weight: 300">Resources for everyone</p>
+<ul>  
+  <li style = "font-size: 13pt"> [I'm feeling suicidal](crisis_resources.html#I_Feel_Suicidal)       
+  </li>
+  <li style = "font-size: 13pt"> [I want to better support a struggling loved one](crisis_resources.html#I_Want_to_Help_Someone)       
+  </li>  
+  <li style = "font-size: 13pt"> [I'm in recovery from losing a loved one to suicide](crisis_resources.html#I_Lost_Someone_To_Suicide)       
+  </li>
+  <li style = "font-size: 13pt"> [I want to learn more about levels of suicide risk, about people's experience with suicide, or anti-carceral mental health practices](crisis_resources.html#I_Want_To_Learn)       
+  </li>
+</ul>
+  
 
-<p style = "font-size: 13pt"> Coming from a non-majority background, I have been immensely grateful for all the support I have received that helped me get to my current career stage. I am committed to giving back to the community and uplifting underrepresented populations in the academic and clinical field. If you are applying for clinical psychology PhD programs, here are some [resources](app_resources.html) that I compiled. If you are looking for researchers whose primary research focus is suicide, here are some [resources](suicide_researchers.html) to get started. Feel free to reach out to me as well. </p>
 
-<p style = "font-size: 13pt"> If you are experiencing emotional hardships, check out these [resources](crisis_resources.html).</p>
 
-:::
 
 ---
-<p style = "font-size: 11.5pt; font-weight: 500;line-height: 0.7cm;">Please email me if you are interested in collaborating or need help with your educational path.    
+<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
+Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
 Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
 Page last updated: `r Sys.Date()`</p>
 

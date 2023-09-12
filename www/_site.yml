@@ -3,8 +3,10 @@ output_dir: "../docs"
 navbar:
   title: "Irene Xu"
   left:
-    - text: "About"
+    - text: "Home"
       href: index.html
+    - text: "About"
+      href: about.html
     - text: "Research"
       href: research.html
     - text: "PhD Application Resources"

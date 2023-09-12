@@ -40,7 +40,7 @@ colorize <- function(x, color) {
 #### **Free Resources On Learning R**
 * There are many free resources out there about learning R and related languages, and the incredible database [**resouRces**](https://www.resourcesdatabase.com/resources/learning_r.html) literally has it all!
 
-* [Psych #rstats Club](https://docs.google.com/spreadsheets/d/1cbOyYoR4CCb4zYvKy2dGgeuKfeRhyA5qS24EdYFHDQY/edit#gid=0) is a list of resources for using R in psychology.
+* [Psych #rstats Club](https://docs.google.com/spreadsheets/d/1cbOyYoR4CCb4zYvKy2dGgeuKfeRhyA5qS24EdYFHDQY/edit#gid=0) is a list of resources for using R in psychology. 
 
 ***
 
@@ -69,6 +69,8 @@ I built this website hosted on GitHub using R markdown. It comes with templates 
   + `r colorize("#FF6999", "#FF6999")`
   
 ---
-<p style = "font-size: 11.5pt; font-weight: 500;line-height: 0.7cm;">Please email me if you are interested in collaborating or need help with your educational path.    
+<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
+Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
 Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
 Page last updated: `r Sys.Date()`</p>
+
