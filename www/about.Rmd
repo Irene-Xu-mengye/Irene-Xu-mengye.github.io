@@ -42,7 +42,7 @@ output:
 <h4>They/Them</h4>
 <p style = "font-family: Verdana;text-align: center;color: #294759; font-size:12pt">PhD Student<br>University of Notre Dame</p>
 
-<a href= "irenexupsych@gmail.com" style="margin-right: 0.4em;">![](media/email_logo.png){width=12%}</a>
+<a href= "mailto:irenexupsych@gmail.com" style="margin-right: 0.4em;">![](media/email_logo.png){width=12%}</a>
 <a href= "https://scholar.google.com/citations?user=8e508PkAAAAJ&hl=en&oi=ao" style="margin-right: 0.4em;">![](media/google-scholar-logo.png){width=12%}</a>
 <a href= "http://www.github.com/Irene-Xu-mengye" style="margin-right: 0.4em;">![](media/github_logo.png){width=13%}</a>
 <a href= "https://osf.io/xkucz/" style="margin-right: 0.4em;">![](media/osf_logo.png){width=13%}</a>
