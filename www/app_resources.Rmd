@@ -33,7 +33,7 @@ output:
 
 #### **Recruitment/Diversity Programs**    
 
-These programs provide the opportunity to hear from faculty and sometimes even receive feedback from them. Their websites also have useful tips.   
+Recruitment programs are amazing if you want to hear from faculty themselves. Most programs let you interact with faculty directly in breakout rooms, and some even have faculty provide feedback on your materials (e.g., Harvard PPREP). Definitely attend if you're interested in these particular programs! Also check out their websites for tips.          
 
 * Harvard: [Prospective Ph.D. & RA Event in Psychology (PPREP)](https://psychology.fas.harvard.edu/pprep)
 * University of North Carolina: [Diversifying Psychology Weekend (DPW)](https://psychology.unc.edu/diversifying-psychology-weekend/)
@@ -43,12 +43,16 @@ These programs provide the opportunity to hear from faculty and sometimes even r
 * Stanford: [Paths to PhD](https://psychology.stanford.edu/diversity/paths-phd)
 * University of Washington: [A Sneak Peek for Graduate School](https://psych.uw.edu/diversity/virtual-recruitment-event)
 * Stony Brook: [Weekly Psychology Graduate School Application Cafe](https://twitter.com/JSchleiderPhD/status/1305675175292272641)
+* Colorado Boulder usually holds [Q&A Sessions for Prospective Students](https://www.colorado.edu/clinicalpsychology/graduate-program/prospective-students) over zoom
+* Texas Tech usually holds an open house over zoom in the fall - check out faculty's Twitter
+* UC San Diego: [2 day virtual Diversifying Psychology Event](https://diversifyingpsychology.ucsd.edu/)
+* University of Washington: [Diversifying Psychology: A Sneak Peek for Graduate School](https://psych.uw.edu/diversity/virtual-recruitment-event)
 
 ***
 
 #### **Non-Profits/Student-Led Programs**    
 
-Many of these programs offer one-to-one mentorship and/or have phenomenal resources pages. 
+Many of these programs offer one-to-one mentorship and/or have *phenomenal* resources pages. Personally I received TONS of help from my project SHORT mentor.  
 
 * [Project SHORT](https://www.project-short.com/) matches applicants with mentors in a related field to provide one-to-one mentoring. "One of the goals of Project SHORT is to offer pro-bono mentoring for individuals from diverse and underrepresented populations in STEM." 
 * [Application Statement Feedback Program (ASFP)](https://www.asfp.io): "Our goal is to provide fast, constructive feedback and editing support for the research/personal statements of PhD applicants in psychology, with an emphasis on underrepresented minorities and/or those who are not ‘in the know.’"
@@ -60,8 +64,8 @@ Many of these programs offer one-to-one mentorship and/or have phenomenal resour
 
 #### **Is Clin Psych The Right Choice?**
 
-* The classic [Mitch Prinstein’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
-* A beautiful visual guide on related [Careers in Clinical Psychology](https://www.thehamiltonlab.org/_files/ugd/daa781_0c5a064f63f84b72992c5cd3aa968e74.pdf)
+* The classic [Dr. Mitch Prinstein’s Uncensored Advice for Applying to Graduate School in Clinical Psychology](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
+* A beautiful visual guide on [Careers in Clinical Psychology](https://www.thehamiltonlab.org/_files/ugd/daa781_0c5a064f63f84b72992c5cd3aa968e74.pdf)
 * [REACH for Graduate School in Psychology](https://sites.google.com/view/reach-for-graduate-school/home) has resources to help students applying to masters and doctoral programs in psychology, including things to consider before applying, how to apply, etc.  
 
 ***
@@ -74,7 +78,7 @@ Many of these programs offer one-to-one mentorship and/or have phenomenal resour
 
 #### **Preparing Application Materials**  
 
-I personally found the top listed ones very helpful. Note that some are very comprehensive (academics can't help it) and can seem overwhelming, but you can always extract what you need!   
+I personally found the top listed ones very helpful. Note that some are very comprehensive and can be overwhelming, but you can always just extract what you need.   
 
 **Perspectives from faculty**
 
@@ -120,7 +124,7 @@ Many of the guides above describe how to write a good statement of purpose (SOP)
 ***
 
 #### **Email Faculty**
-Instead of emailing faculty, I reached out the their current grad students. 90% responded and shared valuable first-hand experience on what it's like to work with the PI. 
+Instead of emailing faculty, I actually reached out the their current grad students. ~90% responded and shared valuable first-hand experience on what it's like to work with the PI. 100% recommend!  
 
 * [Finding a faculty advisor](https://psych.princeton.edu/finding-faculty-advisor) describes why and how to email faculty
 * [How to email faculty](https://lucklab.ucdavis.edu/blog/2018/9/17/emailing-faculty#:~:text=We%20recommend%20a%20subject%20heading,get%20any%20advice%20they%20might)  
@@ -142,6 +146,7 @@ Instead of emailing faculty, I reached out the their current grad students. 90% 
 
 #### **Fellowships**
 
+* [Graduate & Undergraduate Student Fellowship List](https://docs.google.com/spreadsheets/d/11HL1lq8IQYYITGvlyn5ZVW6SrxsmkPr04zoAZF5q21o/edit#gid=0) maintained by Dr. June Gruber
 * [The Illinois Database of Grants and Fellowships for Graduate Students](https://apps.grad.illinois.edu/fellowship-finder/)
 * [Psychology and Education Fellowships for Graduate Students (including those for international students)](https://docs.google.com/spreadsheets/d/1e9hAxj5mqUZGHp9yUzwKEG1DWdDJNNFXNCZEYx3dghM/edit#gid=0)
 * Dartmouth College's Database on [Fellowships for International Students](https://students.dartmouth.edu/fellowship-advising/fellowships/international-student-opportunities/all-nationalities)
@@ -163,6 +168,7 @@ Instead of emailing faculty, I reached out the their current grad students. 90% 
 * [Community for Queer Academics in Psychology & Neuroscience](https://www.queerpsychneuro.com/)
 * [How to Become a Scientist While Poor](http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor)
 * "The [Safe Faculty Project](https://sites.google.com/view/safefacultyproject) serves as an anonymous and safe space to empower individuals interested in sharing their experiences and supporting others. Individuals are also encouraged to report and review reports of harassment, abuse, or misconduct using our anonymous reporting form and public database. "
+* Dr. Laura Germine's deep digging on [factors that impact admissions for international applicants to US doctorate programs](https://twitter.com/LauraGermine/status/1499826772396941314)
 
 ***
 
