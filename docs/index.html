@@ -13,7 +13,7 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -33,7 +33,7 @@
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
-<link rel="shortcut icon" href="favicon.png" />
+<link rel="shortcut icon" href="favicon.png" /><link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,9 +270,6 @@ $(document).ready(function () {
   </ul>
 </li>
 <li>
-  <a href="r_resources.html">Analysis Resources</a>
-</li>
-<li>
   <a href="crisis_resources.html">Crisis Resources</a>
 </li>
       </ul>
@@ -300,13 +294,13 @@ $(document).ready(function () {
     display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 0.9cm;
   }
   h3 {
     font-family: Verdana;
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: center;
     color: #294759;
     font-weight: 540;
@@ -326,74 +320,82 @@ $(document).ready(function () {
 </center>
 </div>
 <div class="column" style="width:68%;">
-<p style="font-size: 21pt;font-weight: 400">
+<p style="font-size: 20pt;font-weight: 400">
 WELCOME
 </p>
 </div>
 <p style="font-size: 5pt">
 </p>
-<p style="font-size: 14pt">
-This webpage is maintained by <a href="about.html">Irene Xu</a>, a clinical psychology student, and intended for audiences who want to learn more about
+<p style="font-size: 12pt">
+This webpage is maintained by <a href="about.html">Irene Xu</a>, a
+clinical psychology student, and intended for audiences who want to
+learn more about
 </p>
 <ul>
-<li style = "font-size: 13pt">
-<a href="about.html">Irene</a> and their <a href="research.html">research</a><br />
+<li style = "font-size: 12pt">
+<a href="about.html">Irene</a> and their <a
+href="research.html">research</a><br />
 
 </ul>
-<p style="font-size: 17pt;font-weight: 300">
+<p style="font-size: 14pt;font-weight: 400">
 Resources for Applicants
 </p>
 <ul>
 </li>
-<li style="font-size: 13pt">
-<a href="app_resources.html">Applying for Clinical Psychology PhD programs</a>
+<li style="font-size: 12pt">
+<a href="app_resources.html">Applying for Clinical Psychology PhD
+programs</a>
 </li>
-<li style="font-size: 13pt">
-<a href="suicide_researchers.html">Identifying faculty who study suicide and self-injury</a><br />
+<li style="font-size: 12pt">
+<a href="suicide_researchers.html">Identifying faculty who study suicide
+and self-injury</a><br />
 
 </li>
 </ul>
-<p style="font-size: 17pt;font-weight: 300">
+<p style="font-size: 14pt;font-weight: 400">
 Resources for researchers
 </p>
 <ul>
-<li style="font-size: 13pt">
-<a href="r_resources.html">Data analysis</a><br />
-
-</li>
-<li style="font-size: 13pt">
-<a href="https://abbyraphd.github.io/SRSToolbox/resources.html">Conducting suicide research and connecting with other suicide researchers</a><br />
+<li style="font-size: 12pt">
+<a
+href="https://abbyraphd.github.io/SRSToolbox/resources.html">Conducting
+suicide research and connecting with other suicide researchers</a><br />
 
 </li>
 </ul>
-<p style="font-size: 17pt;font-weight: 300">
+<p style="font-size: 14pt;font-weight: 400">
 Resources for everyone
 </p>
 <ul>
-<li style="font-size: 13pt">
-<a href="crisis_resources.html#I_Feel_Suicidal">I’m feeling suicidal</a><br />
+<li style="font-size: 12pt">
+<a href="crisis_resources.html#I_Feel_Suicidal">I’m feeling
+suicidal</a><br />
 
 </li>
-<li style="font-size: 13pt">
-<a href="crisis_resources.html#I_Want_to_Help_Someone">I want to better support a struggling loved one</a><br />
+<li style="font-size: 12pt">
+<a href="crisis_resources.html#I_Want_to_Help_Someone">I want to better
+support a struggling loved one</a><br />
 
 </li>
-<li style="font-size: 13pt">
-<a href="crisis_resources.html#I_Lost_Someone_To_Suicide">I’m in recovery from losing a loved one to suicide</a><br />
+<li style="font-size: 12pt">
+<a href="crisis_resources.html#I_Lost_Someone_To_Suicide">I’m in
+recovery from losing a loved one to suicide</a><br />
 
 </li>
-<li style="font-size: 13pt">
-<a href="crisis_resources.html#I_Want_To_Learn">I want to learn more about levels of suicide risk, about people’s experience with suicide, or anti-carceral mental health practices</a><br />
+<li style="font-size: 12pt">
+<a href="crisis_resources.html#I_Want_To_Learn">I want to learn more
+about levels of suicide risk, about people’s experience with suicide, or
+anti-carceral mental health practices</a><br />
 
 </li>
 </ul>
 <hr />
-<p style="font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">
-Please email Irene if you are interested in collaborating.<br />
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.<br />
-Share your comments, concerns, suggestions, or additional resources <a href="https://forms.gle/DQfojqWRTGQ8mjq2A">here</a>.<br />
-Page last updated: 2023-09-12
+<div style="text-align:center">
+<p style="font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">
+Last updated: January 2025 | Contact Irene: <a
+href="mailto:mxu226@wisc.edu" class="email">mxu226@wisc.edu</a>
 </p>
+</div>
 
 
 

@@ -12,21 +12,19 @@ output:
 ---
 <style>
   .title{
-    color: #294759;
-    margin-bottom: -1%;
-    font-size: 18pt
+    display: none;
   }  
   h3 {
-    font-size: 16pt;
+    font-size: 15pt;
     color: #294759;
   }  
   h4 {
-    font-size: 15pt;
+    font-size: 14pt;
     color: #294759;
     margin-bottom: 20px;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 1.8em;
   }
@@ -36,7 +34,7 @@ output:
 
 ### **I Feel Suicidal**
 
-<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. </u></p>  
+<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. It is a tough battle to fight. </u></p>  
 Though there is no guarantee that you would feel better afterwards, it could be a space to process the current thoughts and feelings.      
 Depending on what you are comfortable with at the moment, below are a few options for you to talk to someone.      
 
@@ -211,8 +209,9 @@ While emergency services can save lives, they can also lead to further traumatiz
 
 * [Trans Lifeline](https://translifeline.org/) has an incredible [resources page](https://translifeline.org/resources/) for all sorts of struggles, especially for people with minorotized gender and racial identities with limited financial resources.   
 
+
 ---
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">The material on this site is not intended to substitute for clinical advice. </p>
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;"> Last updated: January 2025 | Contact Irene: mxu226@wisc.edu </p>
+</div>

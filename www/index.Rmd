@@ -12,13 +12,13 @@ output:
     display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 0.9cm;
   }
   h3 {
     font-family: Verdana;
-    font-size: 16pt;
+    font-size: 14pt;
     text-align: center;
     color: #294759;
     font-weight: 540;
@@ -42,43 +42,41 @@ output:
 :::
 ::: {.column width="68%"}
 
-<p style = "font-size: 21pt;font-weight: 400">WELCOME</p> 
+<p style = "font-size: 20pt;font-weight: 400">WELCOME</p> 
 
 :::
 <p style = "font-size: 5pt"></p> 
 
-<p style = "font-size: 14pt">This webpage is maintained by [Irene Xu](about.html), a clinical psychology student, and intended for audiences who want to learn more about</p>  
+<p style = "font-size: 12pt">This webpage is maintained by [Irene Xu](about.html), a clinical psychology student, and intended for audiences who want to learn more about</p>  
 
 <ul>
-  <li style = "font-size: 13pt"> [Irene](about.html) and their [research](research.html)  
+  <li style = "font-size: 12pt"> [Irene](about.html) and their [research](research.html)  
 </ul>
 
-<p style = "font-size: 17pt;font-weight: 300">Resources for Applicants</p>  
+<p style = "font-size: 14pt;font-weight: 400">Resources for Applicants</p>  
 <ul>
   </li>
-  <li style = "font-size: 13pt"> [Applying for Clinical Psychology PhD programs](app_resources.html)
+  <li style = "font-size: 12pt"> [Applying for Clinical Psychology PhD programs](app_resources.html)
   </li>  
-  <li style = "font-size: 13pt"> [Identifying faculty who study suicide and self-injury](suicide_researchers.html)   
+  <li style = "font-size: 12pt"> [Identifying faculty who study suicide and self-injury](suicide_researchers.html)   
   </li>
 </ul>
 
-<p style = "font-size: 17pt;font-weight: 300">Resources for researchers</p> 
+<p style = "font-size: 14pt;font-weight: 400">Resources for researchers</p> 
 <ul>
-  <li style = "font-size: 13pt"> [Data analysis](r_resources.html)   
-  </li>   
-  <li style = "font-size: 13pt"> [Conducting suicide research and connecting with other suicide researchers](https://abbyraphd.github.io/SRSToolbox/resources.html)   
+  <li style = "font-size: 12pt"> [Conducting suicide research and connecting with other suicide researchers](https://abbyraphd.github.io/SRSToolbox/resources.html)   
   </li> 
 </ul>
 
-<p style = "font-size: 17pt;font-weight: 300">Resources for everyone</p>
+<p style = "font-size: 14pt;font-weight: 400">Resources for everyone</p>
 <ul>  
-  <li style = "font-size: 13pt"> [I'm feeling suicidal](crisis_resources.html#I_Feel_Suicidal)       
+  <li style = "font-size: 12pt"> [I'm feeling suicidal](crisis_resources.html#I_Feel_Suicidal)       
   </li>
-  <li style = "font-size: 13pt"> [I want to better support a struggling loved one](crisis_resources.html#I_Want_to_Help_Someone)       
+  <li style = "font-size: 12pt"> [I want to better support a struggling loved one](crisis_resources.html#I_Want_to_Help_Someone)       
   </li>  
-  <li style = "font-size: 13pt"> [I'm in recovery from losing a loved one to suicide](crisis_resources.html#I_Lost_Someone_To_Suicide)       
+  <li style = "font-size: 12pt"> [I'm in recovery from losing a loved one to suicide](crisis_resources.html#I_Lost_Someone_To_Suicide)       
   </li>
-  <li style = "font-size: 13pt"> [I want to learn more about levels of suicide risk, about people's experience with suicide, or anti-carceral mental health practices](crisis_resources.html#I_Want_To_Learn)       
+  <li style = "font-size: 12pt"> [I want to learn more about levels of suicide risk, about people's experience with suicide, or anti-carceral mental health practices](crisis_resources.html#I_Want_To_Learn)       
   </li>
 </ul>
   
@@ -87,8 +85,6 @@ output:
 
 
 ---
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
-
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+</div>

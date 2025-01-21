@@ -1,29 +1,31 @@
 ---
 title: "Finding Suicide Labs"
 output: 
-  html_document:
-    includes:
-      in_header: ../support_docs/header.html
+  html_document
 ---
 
 <style>
   .title{
-    color: #294759;
-    margin-bottom: -1%;
-    font-size: 18pt
+    display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 1.8em;
   }
+  h1 {
+    font-size: 17pt;
+    margin-bottom: 20px;
+    color: #294759;
+  }
   h4 {
-    font-size: 15pt;
+    font-size: 14pt;
     margin-bottom: 20px;
   }
 </style>
 
 <br>
+<h1>Finding Suicide Labs</h1>
 
 If you are looking for <u>**faculty and researchers specializing in the field of suicide and self injury and are able to admit graduate students or RAs**</u>, you're at the right place!  
 
@@ -53,7 +55,6 @@ It includes researchers in the field of *clinical psychology, psychiatry, neuros
 
 
 ---
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+</div>

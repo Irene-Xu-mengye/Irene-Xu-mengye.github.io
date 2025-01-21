@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <style>
+        /* Global Reset and Box Sizing */
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Helvetica Neue;
+            line-height: 1.6;
+            color: #294759;
+            margin: 0;
+            padding: 0;
+        }
+        h2 {
+          font-size: 15pt;
+          font-weight: 400;
+        }
+
+       /* Navigation Bar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #f5f5f5; /* Deep blue */
+            padding: 10px 20px;
+            color: #808080;
+            position: sticky;
+            top: 0;
+            z-index: 1000; /* Ensures it stays on top */
+         /*   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); */
+            border-bottom: 5px solid rgba(0, 0, 0, 0.05); /* Adds a thin line under the navbar */
+        }
+        .navbar .logo {
+            font-size: 20px;
+            font-weight: 500;
+            padding-left: 15%; /* Adds padding to push the logo in from the left */
+        }
+        .navbar .links {
+            display: flex;
+            gap: 25px;
+            padding-left: 5%; /* Adds padding to push the logo in from the left */
+            margin-right: auto;
+        }
+        .navbar a {
+            text-decoration: none;
+            color: #808080;
+            font-size: 16px;
+            transition: color 0.2s ease;
+        }
+        .navbar a:hover {
+            color: #2F4F4F; 
+        }
+
+        /* Hamburger Menu */
+        .hamburger {
+            display: none;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+
+        /* Flexbox Styling for Favicon and Title */
+        .header {
+            display: flex;
+            align-items: center;
+            max-width: 850px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .header img {
+            width: 40px;
+            height: auto;
+            margin-right: 10px;
+        }
+        .header p {
+            font-size: 15px;
+            font-weight: 540;
+            color: #294759;
+            margin: 0;
+        }
+
+        /* Content Section */
+        .content {
+            max-width: 850px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .content p {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .content ul {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .content ul li {
+            line-height: 1.8;
+        }
+        .content a {
+            color: #00688b;
+            text-decoration: none;
+        }
+        .content a:hover {
+            text-decoration: underline;
+            color: #009acd;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #f5f5f5;
+            color: #294759;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+               
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+            .profile, .content {
+                flex: 1 1 100%;
+            }
+            .navbar .links {
+                display: none; /* Hide links by default on small screens */
+                flex-direction: column;
+                gap: 10px;
+                width: 100%;
+                background-color: #f5f5f5;
+                position: absolute;
+                top: 60px; /* Adjust based on navbar height */
+                left: 0;
+                padding: 10px 20px;
+                box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            }
+            .navbar .links.show {
+                display: flex;
+            }
+            .hamburger {
+                display: block;
+            }
+            .navbar .logo {
+                margin-left: 0%; /* Adjust the margin on smaller screens */
+        }
+
+
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <div class="logo">Irene Xu</div>
+        <div class="hamburger" onclick="toggleMenu()">☰</div>
+        <div class="links">
+            <a href="index.html">Home</a>
+            <a href="about_2.html">About</a>
+            <a href="#research">Research</a>
+            <a href="#resources">Resources</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div>
+
+    <!-- Header Section -->
+    <div class="header">
+        <img src="favicon.png" alt="Favicon">
+        <p style="font-size: 23px">Welcome</p>
+    </div>
+
+    <!-- Main Content -->
+    <div class="content">
+        <p>
+            This webpage is maintained by <a href="about.html">Irene Xu</a>, a clinical psychology student, and intended for audiences who want to learn more about
+        </p>
+        <ul>
+            <li><a href="about.html">Irene</a> and their <a href="research.html">research</a></li>
+        </ul>
+
+        <h2>Resources for Applicants</h2>
+        <ul>
+            <li><a href="app_resources.html">Applying for Clinical Psychology PhD programs</a></li>
+            <li><a href="suicide_researchers.html">Identifying faculty who study suicide and self-injury</a></li>
+        </ul>
+
+        <h2>Resources for Researchers</h2>
+        <ul>
+            <li><a href="r_resources.html">Data analysis</a></li>
+            <li><a href="https://abbyraphd.github.io/SRSToolbox/resources.html">Conducting suicide research and connecting with other suicide researchers</a></li>
+        </ul>
+
+        <h2>Resources for Everyone</h2>
+        <ul>
+            <li><a href="crisis_resources.html#I_Feel_Suicidal">I'm feeling suicidal</a></li>
+            <li><a href="crisis_resources.html#I_Want_to_Help_Someone">I want to better support a struggling loved one</a></li>
+            <li><a href="crisis_resources.html#I_Lost_Someone_To_Suicide">I'm in recovery from losing a loved one to suicide</a></li>
+            <li><a href="crisis_resources.html#I_Want_To_Learn">I want to learn more about levels of suicide risk, about people's experience with suicide, or anti-carceral mental health practices</a></li>
+        </ul>
+    </div>
+
+    <footer>
+        <p id="contact">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+    </footer>
+</body>
+</html>

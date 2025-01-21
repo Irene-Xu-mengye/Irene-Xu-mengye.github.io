@@ -12,22 +12,20 @@ output:
     display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 0.9cm;
   }
   h3 {
-    font-family: Verdana;
-    font-size: 16pt;
+    font-size: 15pt;
     text-align: center;
     color: #294759;
-    font-weight: 540;
   }
   h4 {
-    font-family: Verdana;
     font-size: 13pt;
     text-align: center;
     color: #294759;
+    font-weight: 400;
   }
 
 </style>
@@ -40,56 +38,60 @@ output:
 
 <h3 style = "text-align: center;">Irene Xu</h3>
 <h4>They/Them</h4>
-<p style = "font-family: Verdana;text-align: center;color: #294759; font-size:12pt">PhD Student<br>University of Notre Dame</p>
-
-<a href= "mailto:irenexupsych@gmail.com" style="margin-right: 0.4em;">![](media/email_logo.png){width=12%}</a>
-<a href= "https://scholar.google.com/citations?user=8e508PkAAAAJ&hl=en&oi=ao" style="margin-right: 0.4em;">![](media/google-scholar-logo.png){width=12%}</a>
-<a href= "http://www.github.com/Irene-Xu-mengye" style="margin-right: 0.4em;">![](media/github_logo.png){width=13%}</a>
-<a href= "https://osf.io/xkucz/" style="margin-right: 0.4em;">![](media/osf_logo.png){width=13%}</a>
-<a href= "https://twitter.com/irene_xu_mengye" style="margin-right: 0.4em;">![](media/twitter_logo.png){width=13.4%}</a>
-<a href= "https://www.linkedin.com/in/irene-x-441588187/">![](media/linkedin_logo.png){width=12.4%}</a>
+<p style = "text-align: center;color: #294759; font-size:12pt">PhD Student</p>
+<p style = "text-align: center;color: #294759; font-size:11.6pt">University of Wisconsin-Madison</p>
+<div style="text-align:center">
+  <a href= "mailto:mxu226@wisc.edu" style="margin-right: 0.8em;">![](media/email_logo.png){width=12%}</a>
+  <a href= "https://scholar.google.com/citations?user=8e508PkAAAAJ&hl=en&oi=ao" style="margin-right:0.8em;">![](media/google-scholar-logo.png){width=12%}</a>
+  <a href= "https://bsky.app/profile/irenexu.bsky.social" style="margin-right: 0.8em;">![](media/bluesky_logo.png){width=12%}</a>
+</div>
 
 :::
 ::: {.column width="5%"}
 :::
 ::: {.column width="68%"}
 
-<p style = "font-size: 21pt;font-weight: 540">About</p>  
+<p style = "font-size: 19pt;font-weight: 540">About</p>  
 
-<p style = "font-size: 13pt"> Hello! I am Irene Xu [(pronunciation)](https://www.youtube.com/watch?v=6AHj1kS1B3E) and I use they/them [pronouns](https://www.pridetraining.org.au/pages/pronoun-page). I am a PhD student in the Clinical Psychology Program at the University of Notre Dame. I work with Dr. Brooke Ammerman at the Affect, Suicide, Self-Injury, and Social Triggers [(ASSIST) Lab](https://assistlab.nd.edu/). My research is oriented around understanding the transition from suicidal ideation to suicidal behaviors, especially the distal and proximal cognitive and affective factors involved in the decision making process. 
+<p style = "font-size: 12pt"> I am Irene Xu [(pronunciation)](https://www.youtube.com/watch?v=6AHj1kS1B3E), a PhD student in the Clinical Psychology Program at the University of Wisconsin-Madison. I work with Dr. Brooke Ammerman at the Affect, Suicide, Self-Injury, and Social Triggers [(ASSIST) Lab](https://assistlab.psych.wisc.edu/). My research is oriented around understanding the transition from suicidal ideation to suicidal behaviors, especially the distal and proximal cognitive and affective factors involved in the decision-making process.
 </p>
 
 <p style = "font-size: 15pt;font-weight: 700">Research</p>  
 
-<p style = "font-size: 13pt"> Some of the questions that my research tries to answer are: </p>
+<p style = "font-size: 12pt"> Some of the questions that my research tries to answer are </p>
 <ul>
-  <li style = "font-size: 13pt"> Why do some individuals engage in suicidal behaviors while some others are able to stop themselves? 
+  <li style = "font-size: 12pt">How do traits and moment-to-moment state changes combine to influence when and for whom the <i>transition</i> from suicidal thoughts to actions is more likely to occur?
   </li>
-  <li style = "font-size: 13pt"> How do individuals decide on whether to attempt suicide?  
+  <li style = "font-size: 12pt">What are the key components of the <i>decision-making process</i> before suicide attempts, and how can we help individuals better understand their own processing style?
   </li>
-  <li style = "font-size: 13pt"> What can we learn from the disproportionately high rate of SITB in the gender diverse population? 
+  <li style = "font-size: 12pt">How do different decision-making styles — or the lack of decision-making — inform peraonalized interventions in the moment?
   </li>
 </ul>
 
-<p style = "font-size: 13pt">
-To answer these questions, I employ a wide range of methods, including cross-sectional, longitudinal, and ecological momentary study designs. See my recent projects [here](research.html).    
-I'm also interested in are disseminating scientific findings in accessible ways and implementing scalable interventions in socially disadvantaged communities. If you share similar interests and would like to collaborate, please feel free to reach out. 
+<p style = "font-size: 12pt">
+To answer these questions, I employ a wide range of study designs and statistical models. See my recent projects [here](research.html).    
 </p>
 
+
+<p style = "font-size: 15pt;font-weight: 700">Purpose</p>  
+
+<p style = "font-size: 12pt"> My research is guided by a commitment to making findings accessible, actionable, equitable, and scalable, informed by the perspectives of disadvantaged communities that I am a part of and I've had the opportunity to connect with. I am particularly focused on understanding and addressing the needs of gender-diverse and socially isolated youth by fostering their ability to cultivate hope and strength, even in the most difficult circumstances. If you share similar interests and would like to collaborate, please feel free to reach out. </p>
+
+
 <p style = "font-size: 15pt;font-weight: 700">Resources</p>  
+<p style = "font-size: 12pt"> Having benefited from valuable support myself, I’ve curated resources to assist graduate school applicants and offer some support options to those navigating suicide-related challenges.</p>
 
 <ul>
-  <li style = "font-size: 13pt"> [Applying to PhD programs](app_resources.html)
+  <li style = "font-size: 12pt"> [Applying to PhD programs](app_resources.html)
   </li>
-  <li style = "font-size: 13pt"> [Faculty who study suicide](suicide_researchers.html)
+  <li style = "font-size: 12pt"> [Faculty who study suicide](suicide_researchers.html)
   </li>
-  <li style = "font-size: 13pt"> [If you or a loved one is experiencing emotional hardships](crisis_resources.html)
+  <li style = "font-size: 12pt"> [If you or a loved one is experiencing emotional hardships](crisis_resources.html)
   </li>
 </ul>
 
 :::
 ---
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+</div>

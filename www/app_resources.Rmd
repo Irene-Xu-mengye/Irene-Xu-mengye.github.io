@@ -12,17 +12,15 @@ output:
 ---
 <style>
   .title{
-    color: #294759;
-    margin-bottom: -1%;
-    font-size: 18pt
+    display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 1.8em;
   }
   h4 {
-    font-size: 15pt;
+    font-size: 14.5pt;
     color: #294759;
     margin-bottom: 20px;
   }
@@ -176,9 +174,7 @@ Instead of emailing faculty, I actually reached out the their current grad stude
 
 If you are looking for researchers in the field of suicide and self-injury, check out this [page](suicide_researchers.html)!
 
-
 ---
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+</div>

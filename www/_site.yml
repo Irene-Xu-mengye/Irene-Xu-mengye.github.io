@@ -16,8 +16,6 @@ navbar:
         - text: "---------"
         - text: "Finding Suicide Labs"
           href: suicide_researchers.html
-    - text: "Analysis Resources"
-      href: r_resources.html
     - text: "Crisis Resources"
       href: crisis_resources.html
 

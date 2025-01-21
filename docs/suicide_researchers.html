@@ -13,7 +13,7 @@
 
 <title>Finding Suicide Labs</title>
 
-<script src="site_libs/header-attrs-2.13/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/lumen.min.css" rel="stylesheet" />
@@ -32,8 +32,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-
-<link rel="shortcut icon" href="favicon.png" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -143,11 +141,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +178,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +187,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -273,9 +268,6 @@ $(document).ready(function () {
   </ul>
 </li>
 <li>
-  <a href="r_resources.html">Analysis Resources</a>
-</li>
-<li>
   <a href="crisis_resources.html">Crisis Resources</a>
 </li>
       </ul>
@@ -297,47 +289,83 @@ $(document).ready(function () {
 
 <style>
   .title{
-    color: #294759;
-    margin-bottom: -1%;
-    font-size: 18pt
+    display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 1.8em;
   }
+  h1 {
+    font-size: 17pt;
+    margin-bottom: 20px;
+    color: #294759;
+  }
   h4 {
-    font-size: 15pt;
+    font-size: 14pt;
     margin-bottom: 20px;
   }
 </style>
-<p><br></p>
-<p>If you are looking for <u><strong>faculty and researchers specializing in the field of suicide and self injury and are able to admit graduate students or RAs</strong></u>, you’re at the right place!</p>
+<br>
+<h1>
+Finding Suicide Labs
+</h1>
+<p>If you are looking for <u><strong>faculty and researchers
+specializing in the field of suicide and self injury and are able to
+admit graduate students or RAs</strong></u>, you’re at the right
+place!</p>
 <p>This list has information about</p>
 <ol style="list-style-type: decimal">
-<li>if the researcher <strong>can</strong> accept grad students or RAs, and<br />
+<li>if the researcher <strong>can</strong> accept grad students or RAs,
+and<br />
 </li>
-<li>if they plan to accept grad student(s) in the <strong>current cycle</strong>.</li>
+<li>if they plan to accept grad student(s) in the <strong>current
+cycle</strong>.</li>
 </ol>
-<p>It includes researchers in the field of <em>clinical psychology, psychiatry, neuroscience, social work, public health, etc,</em> because there are many career paths where you can contribute to suicide research!</p>
-<p><a href="https://docs.google.com/spreadsheets/d/1SV8bvFvMJQcHBq3tapgODfbhxloYd-Tmwaegvvj-xU8/edit?usp=sharing">Open and edit the list in Google Sheet</a> or preview below. Please help maintain this list as we rely on <span style="color: #FF6999"><u>community efforts</u></span>!</p>
+<p>It includes researchers in the field of <em>clinical psychology,
+psychiatry, neuroscience, social work, public health, etc,</em> because
+there are many career paths where you can contribute to suicide
+research!</p>
+<p><a
+href="https://docs.google.com/spreadsheets/d/1SV8bvFvMJQcHBq3tapgODfbhxloYd-Tmwaegvvj-xU8/edit?usp=sharing">Open
+and edit the list in Google Sheet</a> or preview below. Please help
+maintain this list as we rely on <span
+style="color: #FF6999"><u>community efforts</u></span>!</p>
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQJsK_uW93kUpG4T2R1X4Rhc2XL9y0U99hMX07AwZbw0cNUWettev0ieHU6N6rTHWaUdcDNxXOcO-14/pubhtml?widget=true&amp;headers=false" width="110%" height="800">
 </iframe>
 <hr />
-<p><strong>Other resources on finding researchers in the suicide and self-injury field:</strong></p>
+<p><strong>Other resources on finding researchers in the suicide and
+self-injury field:</strong></p>
 <ul>
-<li><p><a href="https://www.psychinout.org/">Psychin’Out</a> has a list of <a href="https://docs.google.com/spreadsheets/d/1SB-y2AxbDhu5UGZbdh-GQ9DemBVPFfz0sW-pb6LW5j8/edit#gid=663188846">PhD Advisor Directory</a> organized by research interests including suicide and self-injury.</p></li>
-<li><p><a href="https://twitter.com/BlaireEhretPhD">Dr. Blaire Ehret</a> has a <a href="https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=1078021192">list</a> on suicide faculty accepting students in particular years.</p></li>
-<li><p><a href="https://twitter.com/AbbyAraCUA">Dr. Abby Ridge-Anderson</a> has a website on <a href="https://abbyraphd.github.io/SRSToolbox/resources.html">Resources For Suicide Researchers</a> that involve suicide related networking, organizations, conferences, training, measures, datasets, etc.</p></li>
-<li><p>There are two <strong>free</strong> early-career-friendly <em>virtual</em> conferences where you can learn about current research, connect with others, and present your work: <a href="https://www.suicideresearchsymposium.com/home">Suicide Research Symposium (SRS)</a> and <a href="https://www.youthsuicideresearch.org/">Youth Suicide Research Consortium (YSRC)</a></p></li>
+<li><p><a href="https://www.psychinout.org/">Psychin’Out</a> has a list
+of <a
+href="https://docs.google.com/spreadsheets/d/1SB-y2AxbDhu5UGZbdh-GQ9DemBVPFfz0sW-pb6LW5j8/edit#gid=663188846">PhD
+Advisor Directory</a> organized by research interests including suicide
+and self-injury.</p></li>
+<li><p><a href="https://twitter.com/BlaireEhretPhD">Dr. Blaire Ehret</a>
+has a <a
+href="https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=1078021192">list</a>
+on suicide faculty accepting students in particular years.</p></li>
+<li><p><a href="https://twitter.com/AbbyAraCUA">Dr. Abby
+Ridge-Anderson</a> has a website on <a
+href="https://abbyraphd.github.io/SRSToolbox/resources.html">Resources
+For Suicide Researchers</a> that involve suicide related networking,
+organizations, conferences, training, measures, datasets, etc.</p></li>
+<li><p>There are two <strong>free</strong> early-career-friendly
+<em>virtual</em> conferences where you can learn about current research,
+connect with others, and present your work: <a
+href="https://www.suicideresearchsymposium.com/home">Suicide Research
+Symposium (SRS)</a> and <a
+href="https://www.youthsuicideresearch.org/">Youth Suicide Research
+Consortium (YSRC)</a></p></li>
 </ul>
 <hr />
-<p style="font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">
-Please email Irene if you are interested in collaborating.<br />
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.<br />
-Share your comments, concerns, suggestions, or additional resources <a href="https://forms.gle/DQfojqWRTGQ8mjq2A">here</a>.<br />
-Page last updated: 2023-09-12
+<div style="text-align:center">
+<p style="font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">
+Last updated: January 2025 | Contact Irene: <a
+href="mailto:mxu226@wisc.edu" class="email">mxu226@wisc.edu</a>
 </p>
+</div>
 
 
 

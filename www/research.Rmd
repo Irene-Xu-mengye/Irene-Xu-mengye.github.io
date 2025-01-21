@@ -8,17 +8,15 @@ output:
 
 <style type="text/css">
   .title{
-    color: #294759;
-    margin-bottom: -1%;
-    font-size: 18pt
+    display: none;
   }
   body {
-    font-size: 12pt;
+    font-size: 11pt;
     color: #294759;
     line-height: 1.8em;
   }
   h4 {
-    font-size: 16pt;
+    font-size: 14pt;
     color: #08aca4;
     margin-bottom: 20px;
   }
@@ -33,12 +31,31 @@ output:
 #### Recent Articles
 
 ::: {.column width="85%"}
-<p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R., Grinspoon, L., Wu, C., Jung, L., Wilmer, J., & Germine, L. (under review). **No evidence for consistent reliability across 36 variations of the emotional dot probe task in 9,000 participants.** </p>
+<p class = "article"> <u>Xu, I.</u>, Millner, A. J., Fortgang, R. G., & Nock, M. K. (2024). **Suicide decision-making: Differences in proximal considerations between individuals who aborted and attempted suicide.** Suicide and Life-Threatening Behavior, 54, 814–830.</p>
 :::
 ::: {.column width="4%"}
 :::
 ::: {.column width="10%"}
-[Preprint](https://www.psyarxiv.com/58z4n)
+[Link](https://onlinelibrary.wiley.com/doi/full/10.1111/sltb.13127)
+:::
+
+::: {.column width="85%"}
+<p class = "article"> Ammerman, B.A., Knorr, A.C., McClure, K., O’Brien, C., & <u>Xu, I.</u> (2024). **Momentary fluctuations in impulsivity predict suicidal ideation among those with problematic alcohol use.** Journal of Clinical Psychology, 81, 51-61. </p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/jclp.23747?casa_token=-zPniOT0RWsAAAAA:-zmpSAnvkFDMoM_ZMp9K_0RCiD3kIStVJ3hA4plwt0w_nQxrFkXuWRZJVuQfCHsWbI0AVZX14BZY3wuH)
+:::
+
+
+::: {.column width="85%"}
+<p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R. W., Grinspoon, E., Jung, L., Wilmer, J. B., & Germine, L. T. (2024). **No Evidence of Reliability Across 36 Variations of the Emotional Dot-Probe Task in 9,600 Participants.** Clinical Psychological Science, 21677026241253826. </p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://journals.sagepub.com/doi/full/10.1177/21677026241253826?casa_token=AXHvbaN7mUwAAAAA%3AyGR9R58eeJJ90ahGyGbLQJ5PnQ3IHnJAFxe87odv4QH1YWZ07SY9z2GBKqBGhnEyOmtj30BjfpJXpw)
 :::
 
 ::: {.column width="85%"}
@@ -51,74 +68,40 @@ output:
 [Preprint](https://osf.io/q4wev)
 :::
 
-
 ::: {.column width="85%"}
-<p class = "article"> Hawks, Z.W., Beck, E.D., Jung, L., Fonseca, L.M., Sliwinski, M., Weinstock, R.S., Grinspoon, E., <u>Xu, I.</u>, ... & Germine, L.T. (2023). **Dynamic associations between glucose and ecological momentary cognition in Type 1 Diabetes.**
+<p class = "article"> Hawks, Z.W., Beck, E.D., Jung, L., …, <u>Xu, I.</u>, et al. (2024) **Dynamic associations between glucose and ecological momentary cognition in Type 1 Diabetes.** npj Digital Medicine, 7, 59. 
 </p>
 :::
 ::: {.column width="4%"}
 :::
 ::: {.column width="10%"}
-[Preprint](https://psyarxiv.com/h7q96/)
+[Link](https://www.nature.com/articles/s41746-024-01036-5)
 :::
 
 
 ::: {.column width="85%"}
-<p class = "article"> Singh, S., Strong, R., <u>Xu, I.</u>, Fonseca, L. M., Hawks, Z., Grinspoon, E., ... & Germine, L. T. (2023). **Ecological Momentary Assessment of Cognition in Clinical and Community Samples: Reliability and Validity Study.** *JMIR, 25*, e45028.  
+<p class = "article"> Ferguson, I., George, G., Wu, C., <u>Xu, I.</u>, Passel, E., Germine, L.T., & Beard, C. (2024) **Evaluating the Word-Sentence Association Paradigm (WSAP) as an assessment of interpretation bias across ethnoracial groups.** Cognitive Therapy and Research, 1-8.
 </p>
 :::
 ::: {.column width="4%"}
 :::
 ::: {.column width="10%"}
-[Link to full text](https://www.jmir.org/2023/1/e45028/)
+[Link](https://link.springer.com/article/10.1007/s10608-024-10523-8)
 :::
+
+
+::: {.column width="85%"}
+<p class = "article"> Singh, S., Strong, R., <u>Xu, I.</u>, Fonseca, L. M., Hawks, Z., Grinspoon, E., ... & Germine, L.T. (2023). **Ecological Momentary Assessment of Cognition in Clinical and Community Samples: Reliability and Validity Study.** JMIR, 25, e45028.  
+</p>
+:::
+::: {.column width="4%"}
+:::
+::: {.column width="10%"}
+[Link](https://www.jmir.org/2023/1/e45028/)
+:::
+
 
 ---
-
-#### Recent Posters
-
-::: {.column width="85%"}
-<p class = "article"> <u>Xu, I.</u>, Hawks, Z., Wu, C., Ferreira, M., Bowers, E., Strong, R., Li, F., Grinspoon, E., Beard, C., Germine, L. (Sept 2022). **Patient Responses to Return of Research Results in two EMA Studies of Cognition and Emotion.** Poster Presented at Society for Research in Psychopathology, Philadelphia, PA.
-</p>
-:::
-::: {.column width="4%"}
-:::
-::: {.column width="10%"}
-[Link](https://docs.google.com/presentation/d/1-WbuhEclD7IrZZjmDVyVom3fcIL_4GPd/edit?usp=sharing&ouid=100799767484704214514&rtpof=true&sd=true)  
-:::
-
-::: {.column width="85%"}
-<p class = "article"> Grinspoon, E., Jung, L., Li, F., Passell, E., Scheuer, L., Hawks, Z., Strong, R., Singh, S., <u>Xu, I.</u>, & Germine, L. (Sept 2022). **How Does Returning Cognitive Test Results Impact Performance over Time?** Poster Presented at Society for Research in Psychopathology, Philadelphia, PA.
-</p>
-:::
-::: {.column width="4%"}
-:::
-::: {.column width="10%"}
-[Link](https://docs.google.com/presentation/d/1II4foE8VE4SZqOMAfn9_np9FM38qJ6FV0fulmYlXPAw/edit?usp=sharing)   
-:::
-
-::: {.column width="85%"}
-<p class = "article"> Wu, C., <u>Xu, I.</u>, Passell, E., Beard, C., & Germine, L. (March 2022). **The Older, the Merrier: Older Adults Have Greater Positive Interpretation Biases.** Poster Presented at Harvard Psychiatry Research Day. Cambridge, MA. 
-</p>
-:::
-::: {.column width="4%"}
-:::
-::: {.column width="10%"}
-[Link](https://docs.google.com/presentation/d/1UTG1GWxcFLKsCgSQqMXULOJ_6i_-IvXWxxqIvZqVy2E/edit?usp=sharing)   
-:::
-
-::: {.column width="85%"}
-<p class = "article"> <u>Xu, I.</u>, Passell, E., Strong, R., Grinspoon, E., & Germine, L. (March 2022). **Attentional Bias for Threat: Reliability of 36 Versions of the Threat Dot Probe Task.** Poster Presented at Harvard Psychiatry Research Day, Cambridge, MA.
-</p>
-:::
-::: {.column width="4%"}
-:::
-::: {.column width="10%"}
-[Link](https://docs.google.com/presentation/d/1aCFDA1ghLOf54COhUPxD1bBCbIa4845D/edit?usp=sharing&ouid=100799767484704214514&rtpof=true&sd=true)
-:::
-
----
-<p style = "font-size: 11.2pt; font-weight: 500;line-height: 0.7cm;">Please email Irene if you are interested in collaborating.     
-Please note that Irene cannot answer clinical queries. The material on this site is not intended to substitute for clinical advice.  
-Share your comments, concerns, suggestions, or additional resources [here](https://forms.gle/DQfojqWRTGQ8mjq2A).   
-Page last updated: `r Sys.Date()`</p>
+<div style="text-align:center">
+  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">Last updated: January 2025 | Contact Irene: mxu226@wisc.edu</p>
+</div>
