@@ -34,8 +34,8 @@ output:
 
 ### **I Feel Suicidal**
 
-<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. It is a tough battle to fight. </u></p>  
-Though there is no guarantee that you would feel better afterwards, it could be a space to process the current thoughts and feelings.      
+<p style = "color: #08aca4; font-size: 13pt"><u>If you are thinking that you might be better off dead, thinking of hurting yourself or attempting suicide, please consider talking to someone. It is a tough battle to fight, especially if you're fighting alone. </u></p>  
+Though there is no guarantee that you would feel better after talking to someone, it could be a space to process the current thoughts and feelings.      
 Depending on what you are comfortable with at the moment, below are a few options for you to talk to someone.      
 
 ***
@@ -43,6 +43,8 @@ Depending on what you are comfortable with at the moment, below are a few option
 * Call a trusted family or a friend who can listen to you without judgement
 
 * Call your therapist, counselor, or doctor's office
+
+Hey, if you don't happen to have someone like that, that's ok! 
 
 ***
 <h4><u>**Emergency Services**</u></h4>
@@ -110,7 +112,7 @@ Text 401-400-2905 to reach [Project LETS](https://projectlets.org/)'s Cisis Supp
 
 * [National Sexual Assult Hotline](https://www.rainn.org/): Call 1-800-656-4673 or [chat online](https://hotline.rainn.org/online)
 
-* [Self-Injuy Outreach and Support](https://sioutreach.org/)
+* [Self-Injury Outreach and Support](https://sioutreach.org/)
 
 * An exhaustive list of [Mental Health Resources](https://www.thehamiltonlab.org/_files/ugd/e30453_8fe269938c894aabb5634b0c649df417.pdf) in the US compiled by the [Hamilton Lab](https://www.thehamiltonlab.org/)
 
@@ -211,7 +213,5 @@ While emergency services can save lives, they can also lead to further traumatiz
 
 
 ---
-<div style="text-align:center">
-  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">The material on this site is not intended to substitute for clinical advice. </p>
-  <p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;"> Last updated: January 2025 | Contact Irene: mxu226@wisc.edu </p>
-</div>
+<p style = "font-size: 11.2pt; font-weight: 400;line-height: 0.7cm;">We may not have met, but through these words, we are connected across time and space. There’s something truly magical about that—and about the fact that we’re both still here, despite everything life has thrown our way.</p>
+
